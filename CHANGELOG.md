@@ -1,5 +1,17 @@
 </details>
 
+**<details><summary>v1.0.5-zh_tw(2025/06/29)</summary>**
+
+### 翻譯基於版本 `v1.5.a`
+
+### 更新内容
+* 修正書本、UI、地點等翻譯 (雜)
+* 提供兼容方案，一般使用不需要TMP、即插即用
+
+</details>
+
+</details>
+
 **<details><summary>v1.0.4-zh_tw(2025/06/28)</summary>**
 
 ### 翻譯基於版本 `v1.5.a`

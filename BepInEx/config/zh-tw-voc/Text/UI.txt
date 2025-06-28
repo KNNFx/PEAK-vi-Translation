@@ -108,12 +108,12 @@ r:"^heal (.+)$"=治療 $1
 r:"^heat up (.+)$"=送温暖給$1
 r:"^Drop (.+)$"=丟棄 $1
 Ancient Statue=古老雕像
-Revive Scouts=復活偵察員
+Revive Scouts=復活童軍們
 waiting for all players...=等待所有玩家……
 
-r:"^can't light campfire with friends missing!$"=朋友去哪了？目前不能點燃營火QAQ
-r:"^(.+) (\d+)m$=$1 距離你$2米
-MORALE BOOST!!=士氣提升！！
+r:"^can't light campfire with friends missing!$"=請先等待所有朋友到達後再點燃營火!
+r:"^(.+) (\d+)m$"=$1 距離你$2米
+MORALE BOOST!!=士氣提升了！不要放棄！
 
 Controls remapping is not currently supported.\nYou can use Steam Input to remap gamepads.=目前不支援操作映射。\n您可以使用 Steam Input 來映射手柄按鍵。
 
@@ -139,30 +139,18 @@ sr:"^Well-done (.+)$"=烤得恰好的$1
 sr:"^Burnt (.+)$"=燒焦的$1
 sr:"^Incinerated (.+)$"=炭化的$1
 
-##護照##
-
-PASSPORT=護照
 Passport=護照
-Name=姓名
-Passport no.=護照號碼
-Nationality=國籍
-CRABLAND=蟹蟹島
 
 ##大廳##
 
-Invite Kiosk=邀請檯
+Invite Kiosk=邀請櫃位
 Invite Friends=邀請好麻吉們來玩
 Rope=繩索
 
 ##登機##
 
-Gate Kiosk=登機檯
+Gate Kiosk=登機櫃位
 Board Flight=登機
-BOARDING PASS=登機牌
-r:"^PASSENGER:\n<size\=170%\>([^ ]+)$"=乘客：\n\n<size\=170%>$1
-GATE:=閘口：
-FROM:=出發地：
-TO:=目的地：
 
 ##報告##
 spectating:=正在觀察：
@@ -178,7 +166,7 @@ NEW LOOK!=新外觀！
 NEW HAT!=新帽子！
 
 get resurrected at the statue!=在雕像處復活！
-you are a ghost\n\n\n=你是阿飄\n\n\n
+you are a ghost\n\n\n=你現在是阿飄...\n\n\n
 
 YOUR BODY WAS\n<size\=125%>NEVER FOUND=<size\=44>你的遺體\n最後還是沒被找到</size>
 SCOUTING REPORT=偵察報告

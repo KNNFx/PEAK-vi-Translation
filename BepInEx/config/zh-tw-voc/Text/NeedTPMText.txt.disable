@@ -1,0 +1,15 @@
+##keys in NeedTPMText.txt was origin from team RTLC, zh-tw translate by Voc-夜芷冰
+
+##登機台##
+BOARDING PASS=登機牌
+r:"^PASSENGER:\n<size\=170%\>([^ ]+)$"=乘客：\n\n<size\=170%>$1
+GATE:=閘口：
+FROM:=出發地：
+TO:=目的地：
+
+##護照##
+PASSPORT=護照
+Name=姓名
+Passport no.=護照號碼
+Nationality=國籍
+CRABLAND=蟹蟹島

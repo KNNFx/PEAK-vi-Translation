@@ -67,10 +67,10 @@ DAY SIX=第六天
 
 r:"^DAY (\d+)$"=第$1天
 
-D=天
-Da=天
-Day=天
-Day =天
+D=第
+Da=第
+Day=第
+Day =第
 Day O=第一天
 Day On=第一天
 Day One=第一天
@@ -98,44 +98,46 @@ r:"^Day (\d+)$"=第$1天
 
 THE FOG RISES...=霧氣升起……
 
-S=海
-SH=海岸
-SHO=海岸
-SHOR=海岸邊
-SHORE=海岸邊
+S=<size\=75%\>【一堆石頭的沙灘】
+SH=<size\=75%\>海
+SHO=<size\=75%\>海邊
+SHOR=<size\=75%\>海邊
+SHORE=<size\=75%\>海邊
 
-T=<size\=80%\>熱
-TR=<size\=80%\>熱帶
-TRO=<size\=80%\>熱帶
-TROP=<size\=80%\>熱帶地
-TROPI=<size\=80%\>熱帶地
-TROPIC=<size\=80%\>熱帶地區
-TROPICS=<size\=80%\>熱帶地區
+T=<size\=75%\>【毒霧雨林】
+TR=<size\=75%\>熱
+TRO=<size\=75%\>熱帶
+TROP=<size\=75%\>熱帶雨
+TROPI=<size\=75%\>熱帶雨
+TROPIC=<size\=75%\>熱帶雨林
+TROPICS=<size\=75%\>熱帶雨林
 
-A=阿
-AL=阿爾
-ALP=阿爾卑
-ALPI=阿爾卑斯
-ALPIN=阿爾卑斯山
-ALPINE=阿爾卑斯山脈
+A=<size\=75%\>【極寒之巔】
+AL=<size\=75%\>阿爾
+ALP=<size\=75%\>阿爾卑
+ALPI=<size\=75%\>阿爾卑斯
+ALPIN=<size\=75%\>阿爾卑斯山
+ALPINE=<size\=75%\>阿爾卑斯山脈
 
-C=<size\=75%\>火
-CA=<size\=75%\>火
-CAL=<size\=75%\>火山
-CALD=<size\=75%\>火山
-CALDE=<size\=75%\>火山
-CALDER=<size\=75%\>火山口
-CALDERA=<size\=75%\>火山口
+C=<size\=75%\>【大型火鍋】
+CA=<size\=75%\>炎
+CAL=<size\=75%\>炎石
+CALD=<size\=75%\>炎石
+CALDE=<size\=75%\>炎石柱
+CALDER=<size\=75%\>炎石柱
+CALDERA=<size\=75%\>炎石柱地
 
-TH=窯
-THE=窯
-THE =窯
-THE K=窯洞
-THE KI=窯洞
-THE KIL=窯洞
-THE KILN=窯洞
+##岩漿窯洞##
+T=<size\=75%\>【麥塊地獄】
+TH=<size\=75%\>岩
+THE=<size\=75%\>岩
+THE =<size\=75%\>岩漿
+THE K=<size\=75%\>岩漿
+THE KI=<size\=75%\>岩漿窯
+THE KIL=<size\=75%\>岩漿窯
+THE KILN=<size\=75%\>岩漿窯洞
 
-P=山
-PE=山
-PEA=山頂
-PEAK=山頂
+P=<size\=75%\>【完結了？】
+PE=<size\=75%\>山
+PEA=<size\=75%\>山頂
+PEAK=<size\=75%\>山頂
