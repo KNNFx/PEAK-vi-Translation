@@ -13,7 +13,7 @@ Bingus=賓格斯
 afternoon=下午
 night=夜晚
 morning=早晨
-sr:"^v.(.+).(.+).(.+)$"=v.$1.$2.$3 (夜芷冰繁中翻譯)
+sr:"^v.(\d+).(\d+).(.+)$"=v.$1.$2.$3 (夜芷冰繁中翻譯)
 
 ##主選單##
 HOST GAME=創建遊戲
@@ -27,13 +27,14 @@ r:(\d+)h (\d+)m (\d+)s=<size\=80%>$1時 $2分 $3秒
 r:(\d+)h(\d+)h(\d+)h=<size\=80%>$1時$2時$3時
 NO DATA=<size\=90%\>無資料
 
+##開發者訊息##
 Thank you for playing PEAK! Pro tip, tapping SPRINT while climbing makes you do a LUNGE!=感謝您遊玩 PEAK！小提示：在攀爬時點擊衝刺可以進行衝刺跳躍！
 Thank you for playing PEAK! Sorry about the floating luggage!=感謝您遊玩 PEAK！抱歉有漂浮的行李！
 We're investigating crashes, disconnects and other major issues! Thanks for your patience <3=我們正在調查遊戲崩潰、斷線及其他重大問題！感謝您的耐心 <3
 ##Tropics crash has been resolved! More fixes coming soon. Thanks for your patience <3=熱帶地區的崩潰問題已解決！更多修復即將推出，感謝您的耐心 <3##
 
 ##由於需要手動搬字體，所以佔用一下這個位置##
-Tropics crash has been resolved! More fixes coming soon. Thanks for your patience <3=若果你看到版本號/其他地方有方格的話，請按照Readme / Mod Manager 中的詳細簡介完成相關設定！
+sr:"^(.+)Tropics crash has been resolved(.+)$"=若果你看到版本號/其他地方有方格的話，請按照Readme / Mod Manager 中的詳細簡介完成相關設定！
 
 ##製作團隊##
 A GAME MADE BY=遊戲製作
@@ -159,9 +160,9 @@ Gate Kiosk=登機檯
 Board Flight=登機
 BOARDING PASS=登機牌
 r:"^PASSENGER:\n<size\=170%\>([^ ]+)$"=乘客：\n\n<size\=170%>$1
-GATE:\n<size\=170%>7\n=閘口：\n<size\=170%>\n7\n
-FROM:\n<size\=170%>ACG\n=出發地：\n<size\=170%>\nACG\n
-TO:\n<size\=170%>LFG\n=目的地：\n<size\=170%>\nLFG\n
+GATE:=閘口：
+FROM:=出發地：
+TO:=目的地：
 
 ##報告##
 spectating:=正在觀察：
