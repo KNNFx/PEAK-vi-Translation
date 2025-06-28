@@ -1,5 +1,12 @@
 ##keys in UI.txt was origin from team RTLC, zh-tw translate by Voc-夜芷冰
 
+##登機台##
+BOARDING PASS=登機牌
+r:"^PASSENGER:\n<size\=170%\>([^ ]+)$"=乘客：\n\n<size\=170%>$1
+r:"^GATE:([^ ]+)$"=閘口：$1
+r:"^FROM:([^ ]+)$"=出發地：$1
+r:"^TO:([^ ]+)$"=目的地：$1
+
 ##雜項##
 Version out of date=版本過舊
 Okay=好
