@@ -44,25 +44,25 @@ D=第
 DA=第
 DAY=第
 DAY =第
-DAY O=第一天
-DAY ON=第一天
+DAY O=第
+DAY ON=第一
 DAY ONE=第一天
-DAY T=第二天
-DAY TW=第二天
+DAY T=第
+DAY TW=第二
 DAY TWO=第二天
-DAY TH=第三天
-DAY THR=第三天
+DAY TH=第
+DAY THR=第三
 DAY THRE=第三天
 DAY THREE=第三天
-DAY F=第四天
-DAY FO=第四天
+DAY F=第
+DAY FO=第四
 DAY FOU=第四天
 DAY FOUR=第四天
-DAY FI=第五天
-DAY FIV=第五天
+DAY FI=第
+DAY FIV=第五
 DAY FIVE=第五天
-DAY S=第六天
-DAY SI=第六天
+DAY S=第
+DAY SI=第六
 DAY SIX=第六天
 
 r:"^DAY (\d+)$"=第$1天
@@ -71,32 +71,32 @@ D=第
 Da=第
 Day=第
 Day =第
-Day O=第一天
-Day On=第一天
+Day O=第
+Day On=第一
 Day One=第一天
-Day T=第二天
-Day Tw=第二天
+Day T=第
+Day Tw=第二
 Day Two=第二天
-Day Th=第三天
-Day Thr=第三天
+Day Th=第
+Day Thr=第三
 Day Thre=第三天
 Day Three=第三天
-Day F=第四天
-Day Fo=第四天
-Day Fou=第四天
+Day F=第
+Day Fo=第四
+Day Fou=第四
 Day Four=第四天
-Day Fi=第五天
-Day Fiv=第五天
+Day Fi=第
+Day Fiv=第五
 Day Five=第五天
-Day S=第六天
-Day Si=第六天
+Day S=第
+Day Si=第六
 Day Six=第六天
 
 r:"^Day (\d+)$"=第$1天
 
 ##地方##
 
-THE FOG RISES...=霧氣升起……
+THE FOG RISES...=起霧了……
 
 S=<size\=75%\>【一堆石頭的沙灘】
 SH=<size\=75%\>海

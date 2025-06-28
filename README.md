@@ -12,6 +12,7 @@
 
 ## 🚧請留意！
 - 本模組並非官方製作，部分内容由AI輔助翻譯，或有文法錯漏！<br>
+- 目前繼續施工優化翻譯中 （超怕不小心用了粵語語法）
 - 本模組係由 `Coding Band` 的 Voc-夜芷冰 基於 [PEAK Russian Translation](https://thunderstore.io/c/peak/p/RTLC/PEAK_Russian_Translation/) 製作<br>
 - 目前僅在 [Thunderstore](https://thunderstore.io/c/peak/p/Vocaloid2048/PEAK_Traditional_Chinese_Translation/) 和 [GitHub](https://github.com/Vocaloid2048/PEAK-zh-tw-Translation) 發佈
 - 歡迎到 [`⛰️丨攀爬好手丨peak-chat`](https://discord.com/channels/880921456903618610/1387706673875124344) 一起分享心得哦~<br>
@@ -89,11 +90,11 @@
 </details>
 
 ## 🙏🏻銘謝 Special Thanks
-### - [✯RTLC Team](https://discord.gg/QahpjZzGkm)
+### [✯RTLC Team](https://discord.gg/QahpjZzGkm)
 - This mod base on [PEAK Russian Translation](https://thunderstore.io/c/peak/p/RTLC/PEAK_Russian_Translation/)
 - Thanks for @DimaLooper and RTLC permitted for this mod
 
-## 【非必須】設定替代用字體
+## 📑【非必須】設定替代用字體
 
 - 使用MiSans TC VF 字體作替代用
   - 基於 [教育部常用字4808字.txt](https://github.com/Watermelonnn/ChineseUsefulToolKit/blob/master/%E6%95%99%E8%82%B2%E9%83%A8%E5%B8%B8%E7%94%A8%E5%AD%974808%E5%AD%97.txt) 來製作

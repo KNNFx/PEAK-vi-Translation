@@ -12,4 +12,4 @@ PASSPORT=護照
 Name=姓名
 Passport no.=護照號碼
 Nationality=國籍
-CRABLAND=蟹蟹島
+sr:"^v.(\d+).(\d+).(.+)$"=v.$1.$2.$3 (夜芷冰繁中翻譯)
