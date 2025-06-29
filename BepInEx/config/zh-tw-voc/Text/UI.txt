@@ -23,8 +23,8 @@ morning=早晨
 CRABLAND=蟹蟹島
 
 ##主選單##
-HOST GAME=創建遊戲
-PLAY OFFLINE=單機遊玩
+HOST GAME=多人遊玩
+PLAY OFFLINE=單人遊玩
 SETTINGS\n=設定\n
 CREDITS=製作團隊
 QUIT=退出
@@ -119,10 +119,10 @@ Revive Scouts=復活童軍們
 waiting for all players...=等待所有玩家……
 
 r:"^can't light campfire with friends missing!$"=請先等待所有朋友到達後再點燃營火!
-r:"^(.+) (\d+)m$"=$1 距離你$2米
+r:"^(.+) (\d+)m$"=$1 距離你$2公尺
 MORALE BOOST!!=士氣提升了！不要放棄！
 
-Controls remapping is not currently supported.\nYou can use Steam Input to remap gamepads.=目前不支援操作映射。\n您可以使用 Steam Input 來映射手柄按鍵。
+Controls remapping is not currently supported.\nYou can use Steam Input to remap gamepads.=目前不支援按鈕重新映射。\n您可以使用 Steam Input 來映射手把按鍵。
 
 ##表情動作##
 
@@ -136,7 +136,7 @@ Crossed Arms=雙臂交叉
 Dance=跳舞
 
 ##道具的形容詞、##
-r:"^(\d+\.\d+)m$"=$1米
+r:"^(\d+\.\d+)m$"=$1公尺
 wear<br> Backpack=背起<br>背包
 sr:"^stash<br>(.+)$"=放下<br>$1
 sr:"^take<br>(.+)$"=拿起<br>$1

@@ -6,7 +6,7 @@ BACK=返回
 
 Field of view=視野範圍
 Mouse Sensitivity=滑鼠靈敏度
-Controller Sensitivity=控制器靈敏度
+Controller Sensitivity=手把靈敏度
 Invert Y=反轉 Y 軸
 Invert X=反轉 X 軸
 
@@ -24,15 +24,15 @@ Graphics=圖形
 Window Mode=視窗模式
 Fullscreen=全螢幕
 Windowed=視窗化
-Windowed Fullscreen=無邊框視窗
+Windowed Fullscreen=無邊框視窗化
 
-Max Framerate=最大幀率
+Max Framerate=最大影格率
 
 Vsync=垂直同步
 None=無
 Enabled=啟用
 
-Render Scale=渲染縮放
+Render Scale=彩現縮放
 Native=原生
 High=高
 Medium=中
@@ -46,15 +46,15 @@ Ambient Occlusion=環境光遮蔽
 Resolution=解析度
 
 
-#音訊#
-Audio=音訊
+#音效#
+Audio=音效
 
 Microphone=麥克風
 Microphone mode=麥克風模式
-Voice Activation=語音啟動
-Push To Talk [V]=按鍵通話 [V]
+Voice Activation=語音感應
+Push To Talk [V]=按鍵說話 [V]
 
-Master Volume=主音量
+Master Volume=整體音量
 Music Volume=音樂音量
 SFX Volume=音效音量
 Voices Volume=語音音量
