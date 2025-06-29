@@ -40,9 +40,6 @@ Thank you for playing PEAK! Sorry about the floating luggage!=感謝您遊玩 PE
 We're investigating crashes, disconnects and other major issues! Thanks for your patience <3=我們正在調查遊戲崩潰、斷線及其他重大問題！感謝您的耐心 <3
 ##Tropics crash has been resolved! More fixes coming soon. Thanks for your patience <3=熱帶地區的崩潰問題已解決！更多修復即將推出，感謝您的耐心 <3##
 
-##由於需要手動搬字體，所以佔用一下這個位置##
-sr:"^(.+)Tropics crash has been resolved(.+)$"=若果你看到版本號/其他地方有方格的話，請按照Readme / Mod Manager 中的詳細簡介完成相關設定！
-
 ##製作團隊##
 A GAME MADE BY=遊戲製作
 A COLLAB BETWEEN=合作單位
@@ -109,7 +106,7 @@ Flame=火焰
 campfire=營火
 
 r:"^(.+)'s backpack$"=$1的背包
-r:"^Carry (.+)$"=攜帶 $1
+r:"^Carry (.+)$"=背起 $1
 r:"^feed to (.+)$"=餵給 $1
 r:"^heal (.+)$"=治療 $1
 r:"^heat up (.+)$"=送温暖給$1
@@ -118,8 +115,8 @@ Ancient Statue=古老雕像
 Revive Scouts=復活童軍們
 waiting for all players...=等待所有玩家……
 
-r:"^can't light campfire with friends missing!$"=請先等待所有朋友到達後再點燃營火!
-r:"^(.+) (\d+)m$"=$1 距離你$2公尺
+sr:"^can't light campfire with friends missing!$"=請先等待所有朋友到達後再點燃營火!
+sr:"^(.+) (\d+)m$"=$1 距離你$2公尺
 MORALE BOOST!!=士氣提升了！不要放棄！
 
 Controls remapping is not currently supported.\nYou can use Steam Input to remap gamepads.=目前不支援按鈕重新映射。\n您可以使用 Steam Input 來映射手把按鍵。

@@ -71,6 +71,7 @@ Bugle of Friendship=朋友號角
 Portable Stove=攜帶式爐具
 Guidebook=求生指南
 Flare=信號彈
+Piton=岩釘
 
 ##漿果##
 Green Crispberry=綠色脆莓
