@@ -3,8 +3,8 @@
 Tenderfoot=新手
 Climbing takes less stamina. Hunger grows more slowly. No time limit.=攀爬消耗更少體力。飢餓增長較慢。無時間限制。
 
-Peak=頂峰
-The Island's default difficulty.=島嶼的預設難度。
+Peak=山頂
+The Island's default difficulty.=預設難度
 
 Ascent 1=攀登挑戰 1
 Fall Damage is greater.=墜落傷害更大。
@@ -16,7 +16,7 @@ Ascent 3=攀登挑戰 3
 Items have increased weight.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=道具重量增加\n\n<alpha\=#CC><size\=70%>還包含先前的所有效果
 
 Ascent 4=攀登挑戰 4
-#[WRONG] Items have increased weight.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=頂峰無信號彈\n\n<alpha\=#CC><size\=70%>還包含先前的所有效果#
+#[WRONG] Items have increased weight.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=山頂無信號彈\n\n<alpha\=#CC><size\=70%>還包含先前的所有效果#
 
 Ascent 5=攀登挑戰 5
 The night is cold.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=夜晚變得寒冷\n\n<alpha\=#CC><size\=70%>還包含先前的所有效果

@@ -1,5 +1,18 @@
 </details>
 
+**<details><summary>v1.0.6-zh_tw(2025/06/30)</summary>**
+
+### 翻譯基於版本 `v1.5.a`
+
+### 更新内容
+* 優化成就、物品、挑戰、介面翻譯
+* Readme 簡化＆重點次序重排
+* 更換 Readme 圖片
+* 感謝小光大大（等）們使用這個模組~
+
+</details>
+</details>
+
 **<details><summary>v1.0.5-zh_tw(2025/06/29)</summary>**
 
 ### 翻譯基於版本 `v1.5.a`

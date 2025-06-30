@@ -38,11 +38,11 @@ NO DATA=<size\=90%\>無資料
 Thank you for playing PEAK! Pro tip, tapping SPRINT while climbing makes you do a LUNGE!=感謝您遊玩 PEAK！小提示：在攀爬時點擊衝刺可以進行衝刺跳躍！
 Thank you for playing PEAK! Sorry about the floating luggage!=感謝您遊玩 PEAK！抱歉有漂浮的行李！
 We're investigating crashes, disconnects and other major issues! Thanks for your patience <3=我們正在調查遊戲崩潰、斷線及其他重大問題！感謝您的耐心 <3
-##Tropics crash has been resolved! More fixes coming soon. Thanks for your patience <3=熱帶地區的崩潰問題已解決！更多修復即將推出，感謝您的耐心 <3##
+Tropics crash has been resolved! More fixes coming soon. Thanks for your patience <3=熱帶地區的崩潰問題已解決！更多修復即將推出，感謝您的耐心 <3
 
 ##製作團隊##
-A GAME MADE BY=遊戲製作
-A COLLAB BETWEEN=合作單位
+A GAME MADE BY=製作人員清單
+A COLLAB BETWEEN=由以下團隊合作製作
 THANKS FOR PLAYING!=感謝遊玩！
 
 ##暫停##
