@@ -88,6 +88,25 @@
 |NeedTPMText.txt.disable|*【非必須】需要使用替代字體的内容<br>按照 [【非必須】設定替代用字體](#非必須設定替代用字體) 完成設定*|
 |Mod_<模組名稱>.txt|該模組的繁體中文翻譯，這部分容我稍後補充相關規範~|
 
+### 模組翻譯規範
+- 檔案名稱: `Mod_<模組名稱>.txt`
+  - E.g. `Mod_Peak_Save_Manager.txt` (請省略檔案名不支援的特殊符號，使用英文)
+- 檔案結構
+```
+## Info for this mod translation file
+## Mod name:    <這個Mod的正式名字，請參考Thunderstore 展示的模組名>
+## Mod version: <翻譯這個模組時，該模組的版本號>
+## Written by:  <你的名字，請以逗號 "," 來分開>
+
+## <分類標題> ##
+xxx=xxx
+```
+
+- 一般情況使用 `=` 就足夠了，例如 `Only for TESTING=僅測試用`
+- 如需要變量：請使用 r / sr
+  - E.g. `r:"^Players:(.+)$"=玩家數:$1`, `sr:"^Loaded (.+)/(.+) players successfully$"=成功載入 ($1/$2)`
+- 可參考 `Mod_PEAK_Save_Manager.txt`
+
 ## 🙏🏻銘謝 Special Thanks
 ### [✯RTLC Team](https://discord.gg/QahpjZzGkm)
 - This mod base on [PEAK Russian Translation](https://thunderstore.io/c/peak/p/RTLC/PEAK_Russian_Translation/)
