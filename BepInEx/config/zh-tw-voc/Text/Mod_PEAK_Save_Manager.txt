@@ -1,0 +1,27 @@
+## Info for this mod translation file
+## Mod name:    PEAK Save Manager
+## Mod version: v1.0.1
+## Written by:  Voc-夜芷冰
+
+##固定句子##
+Save Name:=進度名稱
+Save Game=儲存進度
+Load Game=載入進度
+Load=載入
+Delete=刪除
+Load Selected=載入勾選的進度
+Delete Selected=刪除勾選的進度
+Close=關閉
+PEAK Save/Load Manager=PEAK 存檔管理工具
+Refresh Save List=刷新進度列表
+Quick Save=快速儲存
+Save failed!=儲存失敗
+Save with Name=儲存為上方輸入名稱
+Loading game state... Please wait.=載入遊戲狀態中...請稍候
+
+##有變量的部分##
+r:"^Loading:(.+)$"=正在加載：$1
+r:"^Save Files(.+)$"=進度存檔$1
+r:"^Saved:(.+)$"=已儲存:$1
+r:"^Players:(.+)$"=玩家數:$1
+sr:"^Loaded (.+)/(.+) players successfully$"=成功載入 ($1/$2)
