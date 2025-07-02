@@ -175,7 +175,6 @@ you are a ghost\n\n\n=你現在是阿飄...\n\n\n
 YOUR BODY WAS\n<size\=125%>NEVER FOUND=<size\=44>你的遺體\n最後還是沒被找到</size>
 SCOUTING REPORT=偵察報告
 TIME\n=時間\n
-r:"^(\d+)m$"=$1分
 TIMELINE=時間線
 NEW BADGES=新徽章
 NEXT=下一步
