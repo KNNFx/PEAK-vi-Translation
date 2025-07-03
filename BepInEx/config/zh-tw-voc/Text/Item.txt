@@ -53,6 +53,7 @@ Remedy Fungus=療癒菇
 Bounce Fungus=彈力菇
 Cure-All=萬靈藥
 Binoculars=雙筒望遠鏡
+Seagull Flag=海鷗旗
 Turtle Flag=烏龜旗
 Cursed Skull=詛咒頭骨
 Pandora's Lunchbox=潘朵拉的便當盒
