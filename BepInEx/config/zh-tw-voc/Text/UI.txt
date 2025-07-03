@@ -112,11 +112,11 @@ r:"^heal (.+)$"=治療 $1
 r:"^heat up (.+)$"=送温暖給$1
 r:"^Drop (.+)$"=丟棄 $1
 Ancient Statue=古老雕像
-Revive Scouts=復活童軍們
+Revive Scouts=復活所有朋友
 waiting for all players...=等待所有玩家……
 
-sr:"^can't light campfire with friends missing!$"=請先等待所有朋友到達後再點燃營火!
-sr:"^(.+) (\d+)m$"=$1 距離你$2公尺
+r:"^can't light campfire with friends missing!(.+)$"=請先等待所有朋友到達後再點燃營火!$1
+sr:"^(.+) (\d+)m$"=$1 距離營火$2公尺
 MORALE BOOST!!=士氣提升了！不要放棄！
 
 Controls remapping is not currently supported.\nYou can use Steam Input to remap gamepads.=目前不支援按鈕重新映射。\n您可以使用 Steam Input 來映射手把按鍵。
@@ -196,3 +196,7 @@ r:"^<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<c
 r:"^<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n$"=<color\=#FFB964>$1<color\=#FF7373> 離開探險</color>\n<color\=#FFB964> $2</color><color\=#A0EC64> 加入探險</color>\n<color\=#FFB964> $3</color><color\=#A0EC64> 加入探險</color>\n
 r:"^<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n$"=<color\=#FFB964>$1<color\=#FF7373> 離開探險</color>\n<color\=#FFB964> $2</color><color\=#A0EC64> 加入探險</color>\n<color\=#FFB964>$3<color\=#FF7373> 離開探險</color>\n
 r:"^<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n$"=<color\=#FFB964>$1<color\=#FF7373> 離開探險</color>\n<color\=#FFB964>$2<color\=#FF7373> 離開探險</color>\n<color\=#FFB964> $3</color><color\=#A0EC64> 加入探險</color>\n
+
+##尋找大廳##
+Failed to find lobby=找不到該大廳
+This invite might be out of date=這個邀請可能已經過期了，請要求房主重新發送邀請
