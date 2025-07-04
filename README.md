@@ -1,18 +1,20 @@
 ![PEAK_ZH_TW_LOGO](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/Logo.png)
 # PEAK 繁體中文翻譯模組 by Voc-夜芷冰
-![version](https://img.shields.io/badge/version-1.0.6-pink)
+![version](https://img.shields.io/badge/Version-1.0.7-pink)
+![PEAK version](https://img.shields.io/badge/PEAK-1.6.a-orange)
 ![make-with-love](https://camo.githubusercontent.com/da124fe0d303f3da8682918930b2f99caf16cda69474c01b4c48598d38f71613/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d616b655f776974685f2545322539442541342545462542382538462d7768697465)
 [![wakatime](https://wakatime.com/badge/user/ca727ba5-9112-4612-b454-d5e407277a51/project/97d38b2f-ce2b-418e-9492-9f3687c2bf1a.svg)](https://wakatime.com/badge/user/ca727ba5-9112-4612-b454-d5e407277a51/project/97d38b2f-ce2b-418e-9492-9f3687c2bf1a)
 
 ## 感謝使用本翻譯模組
 - 如對你有幫助，請給個讚和收藏吧 :D
 - 本模組由 `Coding Band` 的 Voc-夜芷冰 基於 [PEAK Russian Translation](https://thunderstore.io/c/peak/p/RTLC/PEAK_Russian_Translation/) 製作，目前僅在 [Thunderstore](https://thunderstore.io/c/peak/p/Vocaloid2048/PEAK_Traditional_Chinese_Translation/) 和 [GitHub](https://github.com/Vocaloid2048/PEAK-zh-tw-Translation) 發佈
-- 【這個是社群項目】歡迎各位對翻譯提供建議/協助~ [詳情在這邊](#️翻譯有問題-也想幫忙添加翻譯)
+- 【這是社群項目】歡迎各位對翻譯提供建議/協助~ [詳情在這邊](#️翻譯有問題-也想幫忙添加翻譯)
+- 十分感謝狐Kon大大的協助，簡化TPM、替代字體相關設定，玩家現無需額外設定替代用字體亦可以使用
 
 ## 🚧請留意！
 - 本模組並非官方製作，部分内容由AI輔助翻譯，或有文法錯漏！<br>
 - 目前繼續施工優化翻譯中 （超怕不小心用了粵語語法）
-- 部分文字（如護照、地圖名字）因爲字體緣故，只能使用英文（原文）展示，惟可以透過[【非必須】設定替代用字體](#非必須設定替代用字體) 完成設定展示繁體中文
+- 目前開放模組翻譯相關貢獻~
 
 ## 💭夜芷冰的呢喃
 ```
@@ -33,7 +35,7 @@
 |![img_stop_menu.png](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/_IMG/img_stop_menu.png)|![img_achievements.png](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/_IMG/img_achievements.png)|
 |![img_guide_book.png](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/_IMG/img_guide_book.png)|![img_success.png](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/_IMG/img_success.png)|
 
-|安裝後不作改動|使用替代字體後|
+|舊版本|[新版本](#銘謝-special-thanks)|
 |---|---|
 |![img_passport_origin.png](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/_IMG/img_passport_origin.png)|![img_passport_tpm.png](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/_IMG/img_passport_tpm.png)|
 |![img_location_origin.png](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/_IMG/img_location_origin.png)|![img_location_tpm.png](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/_IMG/img_location_tpm.png)|
@@ -85,7 +87,7 @@
 |LoadingAndRepeat.txt|加載頁面、進度式重覆内容|
 |Settings.txt|設定頁|
 |UI.txt|介面、動作等雜項|
-|NeedTPMText.txt.disable|*【非必須】需要使用替代字體的内容<br>按照 [【非必須】設定替代用字體](#非必須設定替代用字體) 完成設定*|
+|NeedTPMText.txt|*需要使用替代字體的内容*|
 |Mod_<模組名稱>.txt|該模組的繁體中文翻譯，這部分容我稍後補充相關規範~|
 
 ### 模組翻譯規範
@@ -112,25 +114,6 @@ xxx=xxx
 - This mod base on [PEAK Russian Translation](https://thunderstore.io/c/peak/p/RTLC/PEAK_Russian_Translation/)
 - Thanks for @DimaLooper and RTLC permitted for this mod
 
-## 📑【非必須】設定替代用字體
-
-- 使用MiSans TC VF 字體作替代用
-  - 基於 [教育部常用字4808字.txt](https://github.com/Watermelonnn/ChineseUsefulToolKit/blob/master/%E6%95%99%E8%82%B2%E9%83%A8%E5%B8%B8%E7%94%A8%E5%AD%974808%E5%AD%97.txt) 來製作
-  - Unity font asset creator -> AssetsBundle Browser
-
-- 請把 `NeedTPMText.txt.disable` 的 `.disable` （副檔名）刪除
-  - 路徑：`%appdata%\com.kesomannen.gale\peak\profiles\<你的設定檔, 預設是Default>\BepInEx\config\zh-tw-voc\Text\NeedTPMText.txt.disable`
-
-### Gale Mod Manager
-- 先在 Gale Mod Manager 右鍵剛剛安裝好的繁中翻譯模組
-- 選擇 `Open folder` 開啟檔案總管後，應見到一個 `misans_tc_vf_sdf_xxxx` 檔案
-  - 這個是字體（TextMeshPro） 檔案，打不開是正常的，不要改動它的名字
-- 複製該檔案，並在 `PEAK 遊戲根目錄` 貼上
-  - 位置: `安裝的SteamLibrary位置\steamapps\common\PEAK\`
-- 透過 Glae Mod Manager 啟動遊戲，看到主頁面Logo上方版本括號內不是☐☐☐即可
-
-### 手動安裝
-- 先在本repo按下 `misans_tc_vf_sdf_xxxx` 並下載
-- 複製該檔案，並在 `PEAK 遊戲根目錄` 貼上
-  - 位置: `安裝的SteamLibrary位置\steamapps\common\PEAK\`
-- 啟動遊戲，看到主頁面Logo上方版本括號內不是☐☐☐即可
+### [狐Kon (@xof_elttil)](https://github.com/XoF-eLtTiL)
+- `UniversalFontPatcher` 的開發者、提供TMP相關技術＆經驗協助
+- 十分感謝大大的協助，簡化TPM、替代字體相關設定，玩家現無需額外設定替代用字體亦可以使用
