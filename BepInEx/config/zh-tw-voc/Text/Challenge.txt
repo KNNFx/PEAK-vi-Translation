@@ -1,31 +1,28 @@
+##keys in Challenge.txt was origin from team RTLC, zh-tw translate by Voc-夜芷冰
 #攀登挑戰#
 
 Tenderfoot=新手
-Climbing takes less stamina. Hunger grows more slowly. No time limit.=攀爬消耗更少體力。飢餓增長較慢。無時間限制。
+Climbing takes less stamina. Hunger grows more slowly. No time limit.=攀爬消耗更少體力，更慢感到餓，而且無時間限制。
 
 Peak=山頂
-The Island's default difficulty.=預設難度
 
-Ascent 1=攀登挑戰 1
+The Island's default difficulty.=預設難度
+r:"^Ascent (\d+)$"=攀登挑戰 $1
+\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=\n\n<alpha\=#CC><size\=70%>還包含先前的所有效果
+
 Fall Damage is greater.=墜落傷害更大。
 
-Ascent 2=攀登挑戰 2
-Hunger grows faster.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=會更快感到餓\n\n<alpha\=#CC><size\=70%>還包含先前的所有效果
+Hunger grows faster.=會更快感到餓
 
-Ascent 3=攀登挑戰 3
-Items have increased weight.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=道具重量增加\n\n<alpha\=#CC><size\=70%>還包含先前的所有效果
+Items have increased weight.=道具重量增加
 
-Ascent 4=攀登挑戰 4
-There are no flares atop the Peak.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=山頂無信號彈\n\n<alpha\=#CC><size\=70%>還包含先前的所有效果#
+There are no flares atop the Peak.=山頂無信號彈
 
-Ascent 5=攀登挑戰 5
-The night is cold.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=夜晚變得寒冷\n\n<alpha\=#CC><size\=70%>還包含先前的所有效果
+The night is cold.=夜晚變得寒冷
 
-Ascent 6=攀登挑戰 6
-Climbing takes additional stamina.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=攀爬消耗更多體力\n\n<alpha\=#CC><size\=70%>還包含先前的所有效果
+Climbing takes additional stamina.=攀爬消耗更多體力
 
-Ascent 7=攀登挑戰 7
-You cannot revive the dead.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=死亡後無法復活\n\n<alpha\=#CC><size\=70%>還包含先前的所有效果
+You cannot revive the dead.=死亡後無法復活
 
 r:"^Ascent (\d+) UNLOCKED!$"=攀登挑戰 $1 已解鎖！
 
