@@ -1,0 +1,19 @@
+## Info for this mod translation file
+## Mod name:    PEAK Invitation Mod
+## Mod version: v1.0.1
+## Written by:  Voc-夜芷冰
+
+##不翻譯標題，因該為模組名字##
+
+##UI部分##
+Create Invite Code=生成邀請碼
+Copy Invite Code=複製邀請碼
+Join Lobby=加入大廳
+Paste Invite Code=貼上邀請碼
+Close=關閉
+
+##主頁面提示##
+Failed to find lobby=找不到該大廳
+This invite might be out of date=這個邀請碼可能已經過期了，請要求房主重新發送邀請碼
+Failed to join lobby=無法加入該大廳
+Failed to fetch lobby data=無法獲得對應邀請碼的大廳資訊，請檢查邀請碼是否錯誤/過期

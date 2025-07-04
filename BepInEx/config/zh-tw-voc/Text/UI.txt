@@ -77,6 +77,7 @@ Crouch\n=蹲下\n
 Sprint / Leap (while climbing)\n=衝刺/跳躍（攀爬時）\n
 Ping Location\n=標記位置\n
 EMOTE\n=表情動作\n
+Apply=套用
 
 Light Lantern=點亮燈籠
 Snuff Lantern=熄滅燈籠
@@ -120,6 +121,8 @@ sr:"^(.+) (\d+)m$"=$1 距離營火$2公尺
 MORALE BOOST!!=士氣提升了！不要放棄！
 
 Controls remapping is not currently supported.\nYou can use Steam Input to remap gamepads.=目前不支援按鈕重新映射。\n您可以使用 Steam Input 來映射手把按鍵。
+
+夜芷冰=夜芷冰
 
 ##表情動作##
 
@@ -196,7 +199,3 @@ r:"^<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<c
 r:"^<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n$"=<color\=#FFB964>$1<color\=#FF7373> 離開探險</color>\n<color\=#FFB964> $2</color><color\=#A0EC64> 加入探險</color>\n<color\=#FFB964> $3</color><color\=#A0EC64> 加入探險</color>\n
 r:"^<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n$"=<color\=#FFB964>$1<color\=#FF7373> 離開探險</color>\n<color\=#FFB964> $2</color><color\=#A0EC64> 加入探險</color>\n<color\=#FFB964>$3<color\=#FF7373> 離開探險</color>\n
 r:"^<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n$"=<color\=#FFB964>$1<color\=#FF7373> 離開探險</color>\n<color\=#FFB964>$2<color\=#FF7373> 離開探險</color>\n<color\=#FFB964> $3</color><color\=#A0EC64> 加入探險</color>\n
-
-##尋找大廳##
-Failed to find lobby=找不到該大廳
-This invite might be out of date=這個邀請可能已經過期了，請要求房主重新發送邀請

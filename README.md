@@ -60,9 +60,7 @@
 - P.S. 直接安裝在遊戲的話需要留意，你需要自行安裝[BepInEx](https://github.com/BepInEx/BepInEx/releases) 和 [AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)
 
 ### 遊戲内有些地方是☐☐☐誒
-- 請幫忙先確認是否[【非必須】設定替代用字體](#非必須設定替代用字體)所述問題
-- 否則，這個可能是因爲這邊字體沒有包含該文字
-- 請透過 GitHub Issue / Discord 回報給我，（附上圖片）指出該文字，以便修正，謝謝！
+- 請透過 GitHub Issue / Discord 回報給我，附上圖片指出該文字，以便修正，謝謝！
 
 ### 用詞、語法問題
 - 請透過 GitHub Issue / Discord 回報給我，直接提供修正的部分會更加好~

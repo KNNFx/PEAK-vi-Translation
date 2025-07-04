@@ -1,0 +1,6 @@
+## Info for this mod translation file
+## Mod name:    Glizzy
+## Mod version: v0.1.1
+## Written by:  Voc-夜芷冰
+
+Glizzy=熱狗
