@@ -1,3 +1,14 @@
+**<details><summary>v1.0.7-zh_tw(2025/07/04)</summary>**
+
+### 翻譯基於版本 `v1.6.b`
+
+### 更新内容
+* 感謝狐空大大提供技術支援＆經驗幫忙
+* 簡化TPM、替代字體相關設定，無需額外設定亦可以使用
+* 更換字體為紅豆體
+* PEAK 1.6.b 相關新物品的翻譯更新
+* 修正部分語法問題的翻譯
+
 </details>
 
 **<details><summary>v1.0.6-zh_tw(2025/06/30)</summary>**
@@ -8,9 +19,8 @@
 * 優化成就、物品、挑戰、介面翻譯
 * Readme 簡化＆重點次序重排
 * 更換 Readme 圖片
-* 感謝小光大大（等）們使用這個模組~
+* 感謝小光 & 阿神大大（等）們使用這個模組~
 
-</details>
 </details>
 
 **<details><summary>v1.0.5-zh_tw(2025/06/29)</summary>**
@@ -23,7 +33,6 @@
 
 </details>
 
-</details>
 
 **<details><summary>v1.0.4-zh_tw(2025/06/28)</summary>**
 

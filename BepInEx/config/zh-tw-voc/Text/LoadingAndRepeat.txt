@@ -1,6 +1,6 @@
 ##LoadingAndRepeat.txt was origin from team RTLC, zh-tw translate by Voc-夜芷冰
 
-##加載頁面##
+##載入頁面##
 THIS GAME USES VOICE CHAT=<size\=90%\>此遊戲使用語音聊天
 PLEASE USE HEADPHONES AND A MICROPHONE=請使用耳機和麥克風
 SELECT MICROPHONE=選擇麥克風

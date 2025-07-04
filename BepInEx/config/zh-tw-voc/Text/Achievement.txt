@@ -26,17 +26,17 @@ Reach the top of a really big tree.=到達一棵巨大樹木的頂端。
 Have a 1-on-1 with the Scoutmaster.=與童軍領袖進行一對一談話。
 Restore 200 total poison by using items.=使用道具恢復200點中毒值。
 Eat 5 different berries in a single expedition.=在單次探險中食用5種不同的莓果。
-Place 100m of rope in a single expedition.=在單次探險中放置100米繩索。
+Place 100m of rope in a single expedition.=在單次探險中放置100公尺繩索。
 Obtain a mystical item.=獲得神秘道具。
 Heal an unconscious friend with an item to save them from death.=使用道具把昏迷的好友從死亡前拉回來。
-Climb 5000m total.=總計攀登5000米。
+Climb 5000m total.=總計攀登5000公尺。
 Escape the island in a solo expedition.=在單人探險中逃離島嶼。
 Resurrect 3 scouts in a single expedition.=在單次探險中復活3名朋友。
 Open 15 luggages in a single expedition.=在單次探險中開啟15個行李箱。
 Escape the island without taking fall damage.=不受到墜落傷害下逃離島嶼。
 Read all of Scoutmaster Myres's journal entries.=閱讀童軍領袖邁爾斯的所有日誌。
 Escape the island without placing anything on the mountain.=山上不遺留任何物品下逃離島嶼。
-Climb 50m upwards without touching the ground.=不觸碰地面連續向上攀爬50米。
+Climb 50m upwards without touching the ground.=不觸碰地面連續向上攀爬50公尺。
 
 ##徽章##
 Beachcomber Badge=海岸探險者徽章

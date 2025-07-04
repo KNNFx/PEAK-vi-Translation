@@ -58,7 +58,7 @@ STAY HUNGRY=<size\=50>保持飢餓</size>\n
 
 RULE 7=規則 7
 DON'T OVERPACK!=<size\=45>不要超載！</size>
-	Putting a backpack on is a great way to carry additional items, which can make the difference between life and death!\n\n	HOWEVER, the more <color\=#61380a>Weight</color> you carry, the less stamina you'll have to climb! An experienced scout knows to pack everything they need... and nothing more!=	背上背包是攜帶更多道具的好方法，這可能關乎生死！\n\n然而，你攜帶的<color\=#61380a>重量</color>越多，能用於攀爬的體力就越少！經驗豐富的童軍知道帶上所有必需品……不多不少！
+	Putting a backpack on is a great way to carry additional items, which can make the difference between life and death!\n\n	HOWEVER, the more <color\=#61380a>Weight</color> you carry, the less stamina you'll have to climb! An experienced scout knows to pack everything they need... and nothing more!=	背上背包是攜帶更多道具的好方法，這可能攸關生死！\n\n然而，你攜帶的<color\=#61380a>重量</color>越多，能用於攀爬的體力就越少！經驗豐富的童軍知道帶上所有必需品……不多不少！
 
 RULE 8=規則 8
 KEEP AN EYE OUT!=<size\=45>保持警惕！</size>

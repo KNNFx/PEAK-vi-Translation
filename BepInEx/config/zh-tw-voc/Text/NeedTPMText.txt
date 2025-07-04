@@ -49,7 +49,7 @@ THE =<size\=100\>岩漿
 THE K=<size\=100\>岩漿窯
 THE KI=<size\=100\>岩漿窯
 THE KIL=<size\=100\>岩漿窯洞
-THE KILN=<size\=100\>岩漿窯洞</size>\n<size\=40\>(但我不是可以燒的礦物誒)</size>
+THE KILN=<size\=100\>岩漿窯洞</size>\n<size\=40\>(但我不是可以燒的礦物欸)</size>
 
 P=<size\=100\>山
 PE=<size\=100\>山

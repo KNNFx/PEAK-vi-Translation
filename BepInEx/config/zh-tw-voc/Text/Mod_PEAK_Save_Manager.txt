@@ -19,8 +19,8 @@ Save failed!=儲存失敗
 Save with Name=儲存為上方輸入名稱
 Loading game state... Please wait.=載入遊戲狀態中...請稍候
 
-##有變量的部分##
-r:"^Loading:(.+)$"=正在加載：$1
+##有變數的部分##
+r:"^Loading:(.+)$"=正在載入：$1
 r:"^Save Files(.+)$"=進度存檔$1
 r:"^Saved:(.+)$"=已儲存:$1
 r:"^Players:(.+)$"=玩家數:$1
