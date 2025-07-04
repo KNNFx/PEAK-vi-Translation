@@ -74,6 +74,9 @@ Guidebook=求生指南
 Flare=信號彈
 Piton=岩釘
 Magic Bean=魔豆
+Frisbee=兵幫飛盤
+Parasol=遮陽傘
+Cactus Ball=仙人掌球
 
 ##漿果##
 Green Crispberry=綠色脆莓
