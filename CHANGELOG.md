@@ -8,6 +8,10 @@
 * 更換字體為紅豆體
 * PEAK 1.6.b 相關新物品的翻譯更新
 * 修正部分語法問題的翻譯
+* 支援以下Mod:
+  * Glizzy
+  * More Ascents
+  * PEAK Invitation Mod
 
 </details>
 
