@@ -9,7 +9,7 @@
 - 如對你有幫助，請給個讚和收藏吧 :D
 - 本模組由 `Coding Band` 的 Voc-夜芷冰 基於 [PEAK Russian Translation](https://thunderstore.io/c/peak/p/RTLC/PEAK_Russian_Translation/) 製作，目前僅在 [Thunderstore](https://thunderstore.io/c/peak/p/Vocaloid2048/PEAK_Traditional_Chinese_Translation/) 和 [GitHub](https://github.com/Vocaloid2048/PEAK-zh-tw-Translation) 發佈
 - 【這是社群項目】歡迎各位對翻譯提供建議/協助~ [詳情在這邊](#️翻譯有問題-也想幫忙添加翻譯)
-- 十分感謝狐Kon大大的協助，簡化TPM、替代字體相關設定，玩家現無需額外設定替代用字體亦可以使用
+- 十分感謝[狐空](#狐空-xof_elttil)大大的協助，簡化TPM、替代字體相關設定，玩家現無需額外設定替代用字體亦可以使用
 
 ## 🚧請留意！
 - 本模組並非官方製作，部分内容由AI輔助翻譯，或有文法錯漏！<br>
@@ -115,6 +115,6 @@ xxx=xxx
 - This mod base on [PEAK Russian Translation](https://thunderstore.io/c/peak/p/RTLC/PEAK_Russian_Translation/)
 - Thanks for @DimaLooper and RTLC permitted for this mod
 
-### [狐Kon (@xof_elttil)](https://github.com/XoF-eLtTiL)
+### [狐空 (＠XoF_eLtTiL)](https://x.com/XoF_eLtTiL)
 - `UniversalFontPatcher` 的開發者、提供TMP相關技術＆經驗協助
 - 十分感謝大大的協助，簡化TPM、替代字體相關設定，玩家現無需額外設定替代用字體亦可以使用
