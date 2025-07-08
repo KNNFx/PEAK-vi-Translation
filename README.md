@@ -51,13 +51,27 @@
 - 透過 Mod Manager 中的「Launch Game」按鈕啟動遊戲，搞掂！
 
 ### 🧰若有需要手動修改設定檔的話...
-- 請先在 [GitHub](https://github.com/Vocaloid2048/PEAK-zh-tw-Translation) 下載原始碼
-- 下載完成後解壓縮zip檔案
-- 開新一個檔案總管，在上面的路徑輸入並前往:
-  - Gale Mod Manager: `%appdata%\com.kesomannen.gale\peak\profiles\<你的設定檔, 預設是Default>\`
-  - 直接安裝在遊戲：`安裝的SteamLibrary位置\steamapps\common\PEAK\`
-- 然後把解壓縮完成的資料夾貼上在這裡
-- P.S. 直接安裝在遊戲的話需要留意，你需要自行安裝[BepInEx](https://github.com/BepInEx/BepInEx/releases) 和 [AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)
+0. 需要預備三個Zip檔案:
+   - [繁體中文翻譯](https://thunderstore.io/c/peak/p/Vocaloid2048/PEAK_Traditional_Chinese_Translation/)
+   - [BepInEx (PEAK)](https://thunderstore.io/c/peak/p/BepInEx/BepInExPack_PEAK/)
+   - [XUnity Auto Translator](https://thunderstore.io/c/peak/p/Hayrizan/XUnity_AutoTranslator) <br>
+   然後開一個臨時的資料夾（E.g. downloads, 參考圖1）
+
+
+1. 下載完成後，請先打開 BepInExPack_PEAK.zip ，然後開啟 `BepInExPack_PEAK` 資料夾，把裏面的四個檔案/資料夾複製到 `downloads`
+
+2. 開啟其餘兩個Zip檔案，僅把裏面的 `BepInEx` 資料夾複製到 `downloads`
+
+![圖1](_IMG\troubleshoot\img_manual_img1.png)
+**<p align=center>圖1</p>**
+
+3. 開啟安裝PEAK的地方 (參考圖2), 把 `downloads` 内的4個資料夾/檔案複製到那邊（參考圖3）
+
+|圖2|圖3|
+|---|---|
+|![圖2](_IMG\troubleshoot\img_manual_img2.png)|![圖3](_IMG\troubleshoot\img_manual_img3.png)|
+
+4. **在Steam啟動PEAK**
 
 ### 遊戲内有些地方是☐☐☐誒
 - 請透過 GitHub Issue / Discord 回報給我，附上圖片指出該文字，以便修正，謝謝！
