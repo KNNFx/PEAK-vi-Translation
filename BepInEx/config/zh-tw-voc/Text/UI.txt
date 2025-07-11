@@ -97,29 +97,48 @@ Remove tick=移除蜱蟲
 heat up=加熱
 look=觀看
 plant=放置
-commune=聯繫
+commune=我不想努力了！
 open?=要開啟嗎？
 revive=復活
 warp=傳送
 play=演奏
 Stove=爐具
 place=放置
-Flame=火焰
+flame=火焰
+FLAME=火焰
 CAMPFIRE=營火
 touch=觸碰
 
 r:"^(.+)'s backpack$"=$1的背包
-r:"^Carry (.+)$"=背起 $1
-r:"^feed to (.+)$"=餵給 $1
-r:"^heal (.+)$"=治療 $1
+r:"^carry (.+)$"=背起$1
+r:"^feed to (.+)$"=餵給$1
+r:"^heal (.+)$"=治療$1
 r:"^heat up (.+)$"=送溫暖給$1
-r:"^Drop (.+)$"=丟棄 $1
+r:"^drop (.+)$"=丟掉$1
+r:"^use on (.+)$"=用在$1上
 ANCIENT STATUE=古老雕像
 REVIVE SCOUTS=復活所有朋友
+revive scouts=復活所有朋友
 waiting for all players...=等待所有玩家……
 
-can't light campfire with friends missing!=請先等待所有朋友到達後再點燃營火!
-sr:"^(.+) (\d+)m$"=$1 距離營火$2公尺
+##請先等待所有朋友到達後再點燃營火 1~20人##
+r:"^can't light campfire with friends missing!\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m$"=請先等待所有朋友到達後再點燃營火!\n\n$1 距離營火$2公尺\n\n$3 距離營火$4公尺\n\n$5 距離營火$6公尺\n\n$7 距離營火$8公尺\n\n$9 距離營火$10公尺
+r:"^can't light campfire with friends missing!\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m$"=請先等待所有朋友到達後再點燃營火!\n\n$1 距離營火$2公尺\n\n$3 距離營火$4公尺\n\n$5 距離營火$6公尺\n\n$7 距離營火$8公尺\n\n$9 距離營火$10公尺\n\n$11 距離營火$12公尺
+r:"^can't light campfire with friends missing!\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m$"=請先等待所有朋友到達後再點燃營火!\n\n$1 距離營火$2公尺\n\n$3 距離營火$4公尺\n\n$5 距離營火$6公尺\n\n$7 距離營火$8公尺\n\n$9 距離營火$10公尺\n\n$11 距離營火$12公尺\n\n$13 距離營火$14公尺
+r:"^can't light campfire with friends missing!\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m$"=請先等待所有朋友到達後再點燃營火!\n\n$1 距離營火$2公尺\n\n$3 距離營火$4公尺\n\n$5 距離營火$6公尺\n\n$7 距離營火$8公尺\n\n$9 距離營火$10公尺\n\n$11 距離營火$12公尺\n\n$13 距離營火$14公尺\n\n$15 距離營火$16公尺
+r:"^can't light campfire with friends missing!\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m$"=請先等待所有朋友到達後再點燃營火!\n\n$1 距離營火$2公尺\n\n$3 距離營火$4公尺\n\n$5 距離營火$6公尺\n\n$7 距離營火$8公尺\n\n$9 距離營火$10公尺\n\n$11 距離營火$12公尺\n\n$13 距離營火$14公尺\n\n$15 距離營火$16公尺\n\n$17 距離營火$18公尺
+r:"^can't light campfire with friends missing!\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m$"=請先等待所有朋友到達後再點燃營火!\n\n$1 距離營火$2公尺\n\n$3 距離營火$4公尺\n\n$5 距離營火$6公尺\n\n$7 距離營火$8公尺\n\n$9 距離營火$10公尺\n\n$11 距離營火$12公尺\n\n$13 距離營火$14公尺\n\n$15 距離營火$16公尺\n\n$17 距離營火$18公尺\n\n$19 距離營火$20公尺
+r:"^can't light campfire with friends missing!\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m$"=請先等待所有朋友到達後再點燃營火!\n\n$1 距離營火$2公尺\n\n$3 距離營火$4公尺\n\n$5 距離營火$6公尺\n\n$7 距離營火$8公尺\n\n$9 距離營火$10公尺\n\n$11 距離營火$12公尺\n\n$13 距離營火$14公尺\n\n$15 距離營火$16公尺\n\n$17 距離營火$18公尺\n\n$19 距離營火$20公尺\n\n$21 距離營火$22公尺
+r:"^can't light campfire with friends missing!\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m$"=請先等待所有朋友到達後再點燃營火!\n\n$1 距離營火$2公尺\n\n$3 距離營火$4公尺\n\n$5 距離營火$6公尺\n\n$7 距離營火$8公尺\n\n$9 距離營火$10公尺\n\n$11 距離營火$12公尺\n\n$13 距離營火$14公尺\n\n$15 距離營火$16公尺\n\n$17 距離營火$18公尺\n\n$19 距離營火$20公尺\n\n$21 距離營火$22公尺\n\n$23 距離營火$24公尺
+r:"^can't light campfire with friends missing!\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m$"=請先等待所有朋友到達後再點燃營火!\n\n$1 距離營火$2公尺\n\n$3 距離營火$4公尺\n\n$5 距離營火$6公尺\n\n$7 距離營火$8公尺\n\n$9 距離營火$10公尺\n\n$11 距離營火$12公尺\n\n$13 距離營火$14公尺\n\n$15 距離營火$16公尺\n\n$17 距離營火$18公尺\n\n$19 距離營火$20公尺\n\n$21 距離營火$22公尺\n\n$23 距離營火$24公尺\n\n$25 距離營火$26公尺
+r:"^can't light campfire with friends missing!\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m$"=請先等待所有朋友到達後再點燃營火!\n\n$1 距離營火$2公尺\n\n$3 距離營火$4公尺\n\n$5 距離營火$6公尺\n\n$7 距離營火$8公尺\n\n$9 距離營火$10公尺\n\n$11 距離營火$12公尺\n\n$13 距離營火$14公尺\n\n$15 距離營火$16公尺\n\n$17 距離營火$18公尺\n\n$19 距離營火$20公尺\n\n$21 距離營火$22公尺\n\n$23 距離營火$24公尺\n\n$25 距離營火$26公尺\n\n$27 距離營火$28公尺
+r:"^can't light campfire with friends missing!\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m$"=請先等待所有朋友到達後再點燃營火!\n\n$1 距離營火$2公尺\n\n$3 距離營火$4公尺\n\n$5 距離營火$6公尺\n\n$7 距離營火$8公尺\n\n$9 距離營火$10公尺\n\n$11 距離營火$12公尺\n\n$13 距離營火$14公尺\n\n$15 距離營火$16公尺\n\n$17 距離營火$18公尺\n\n$19 距離營火$20公尺\n\n$21 距離營火$22公尺\n\n$23 距離營火$24公尺\n\n$25 距離營火$26公尺\n\n$27 距離營火$28公尺\n\n$29 距離營火$30公尺
+r:"^can't light campfire with friends missing!\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m$"=請先等待所有朋友到達後再點燃營火!\n\n$1 距離營火$2公尺\n\n$3 距離營火$4公尺\n\n$5 距離營火$6公尺\n\n$7 距離營火$8公尺\n\n$9 距離營火$10公尺\n\n$11 距離營火$12公尺\n\n$13 距離營火$14公尺\n\n$15 距離營火$16公尺\n\n$17 距離營火$18公尺\n\n$19 距離營火$20公尺\n\n$21 距離營火$22公尺\n\n$23 距離營火$24公尺\n\n$25 距離營火$26公尺\n\n$27 距離營火$28公尺\n\n$29 距離營火$30公尺\n\n$31 距離營火$32公尺
+r:"^can't light campfire with friends missing!\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m$"=請先等待所有朋友到達後再點燃營火!\n\n$1 距離營火$2公尺\n\n$3 距離營火$4公尺\n\n$5 距離營火$6公尺\n\n$7 距離營火$8公尺\n\n$9 距離營火$10公尺\n\n$11 距離營火$12公尺\n\n$13 距離營火$14公尺\n\n$15 距離營火$16公尺\n\n$17 距離營火$18公尺\n\n$19 距離營火$20公尺\n\n$21 距離營火$22公尺\n\n$23 距離營火$24公尺\n\n$25 距離營火$26公尺\n\n$27 距離營火$28公尺\n\n$29 距離營火$30公尺\n\n$31 距離營火$32公尺\n\n$33 距離營火$34公尺
+r:"^can't light campfire with friends missing!\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m$"=請先等待所有朋友到達後再點燃營火!\n\n$1 距離營火$2公尺\n\n$3 距離營火$4公尺\n\n$5 距離營火$6公尺\n\n$7 距離營火$8公尺\n\n$9 距離營火$10公尺\n\n$11 距離營火$12公尺\n\n$13 距離營火$14公尺\n\n$15 距離營火$16公尺\n\n$17 距離營火$18公尺\n\n$19 距離營火$20公尺\n\n$21 距離營火$22公尺\n\n$23 距離營火$24公尺\n\n$25 距離營火$26公尺\n\n$27 距離營火$28公尺\n\n$29 距離營火$30公尺\n\n$31 距離營火$32公尺\n\n$33 距離營火$34公尺\n\n$35 距離營火$36公尺
+r:"^can't light campfire with friends missing!\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m$"=請先等待所有朋友到達後再點燃營火!\n\n$1 距離營火$2公尺\n\n$3 距離營火$4公尺\n\n$5 距離營火$6公尺\n\n$7 距離營火$8公尺\n\n$9 距離營火$10公尺\n\n$11 距離營火$12公尺\n\n$13 距離營火$14公尺\n\n$15 距離營火$16公尺\n\n$17 距離營火$18公尺\n\n$19 距離營火$20公尺\n\n$21 距離營火$22公尺\n\n$23 距離營火$24公尺\n\n$25 距離營火$26公尺\n\n$27 距離營火$28公尺\n\n$29 距離營火$30公尺\n\n$31 距離營火$32公尺\n\n$33 距離營火$34公尺\n\n$35 距離營火$36公尺\n\n$37 距離營火$38公尺
+r:"^can't light campfire with friends missing!\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m\n\n(.+) (\d+)m$"=請先等待所有朋友到達後再點燃營火!\n\n$1 距離營火$2公尺\n\n$3 距離營火$4公尺\n\n$5 距離營火$6公尺\n\n$7 距離營火$8公尺\n\n$9 距離營火$10公尺\n\n$11 距離營火$12公尺\n\n$13 距離營火$14公尺\n\n$15 距離營火$16公尺\n\n$17 距離營火$18公尺\n\n$19 距離營火$20公尺\n\n$21 距離營火$22公尺\n\n$23 距離營火$24公尺\n\n$25 距離營火$26公尺\n\n$27 距離營火$28公尺\n\n$29 距離營火$30公尺\n\n$31 距離營火$32公尺\n\n$33 距離營火$34公尺\n\n$35 距離營火$36公尺\n\n$37 距離營火$38公尺\n\n$39 距離營火$40公尺
+
 MORALE BOOST!!=士氣提升了！不要放棄！
 
 Controls remapping is not currently supported.\nYou can use Steam Input to remap gamepads.=目前不支援按鈕重新映射。\n您可以使用 Steam Input 來映射手把按鍵。
@@ -173,9 +192,10 @@ Rope=繩索
 ##報告##
 spectating:=正在觀察：
 YOURSELF=你自己
-<size\=125%>YOUR FRIENDS\nLEFT YOU TO DIE=<size\=125%>你的朋友無奈地丟下你\n讓你獨自面對死亡
+YOUR FRIENDS=朋友提早溜掉了
+LEFT YOU TO DIE=你最後孤獨地倒下了
 DEAD=死亡
-YOU PEAKED=你登頂了
+YOU PEAKED=你登頂了！
 
 PROMOTED TO;=晉升為；
 NEW FIT!=新造型！
@@ -195,7 +215,5 @@ NEW BADGES=新徽章
 NEXT=下一步
 
 ##玩家進/出##
-joined the expedition=加入探險
-left the expedition=離開探險
-## r:"^<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n$"=<color\=#FFB964> $1</color><color\=#A0EC64> 加入探險</color> ##
-## r:"^<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n$"=<color\=#FFB964>$1<color\=#FF7373> 離開探險</color>\n ##
+r:"^<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n$"=<color\=#FFB964> $1</color><color\=#A0EC64> 加入探險</color>\n
+r:"^<color\=#FFB964> (.+)</color><color\=#FF7373> left the expedition</color>\n$"=<color\=#FFB964>$1<color\=#FF7373> 離開探險</color>\n
