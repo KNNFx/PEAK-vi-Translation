@@ -1,12 +1,10 @@
 ##keys in Achievement.txt was origin from team RTLC, zh-tw translate by Voc-夜芷冰
 
-r:"^LOC: (.+)$"=$1
-
 #成就#
 
 ACCOLADES=成就
 Scout=童軍
-r:PEAKS SUMMITED: (\d+)=登頂次數：$1
+r:PEAKS SUMMITTED: (\d+)=登頂次數：$1
 You don't have this badge yet!=你尚未獲得此徽章！
 Have a friend escape the island without you.=讓一位好友在沒有你的幫助下逃離島嶼。
 Escape the island in under an hour.=在一小時內逃離島嶼。
@@ -43,37 +41,69 @@ Climb 50m upwards without touching the ground.=不觸碰地面連續向上攀爬
 
 ##徽章##
 Beachcomber Badge=海岸探險者徽章
+BEACHCOMBER BADGE=海岸探險者徽章
 Trailblazer Badge=開拓者徽章
+TRAILBLAZER BADGE=開拓者徽章
 Alpinist Badge=阿爾卑斯登山者徽章
+ALPINIST BADGE=阿爾卑斯登山者徽章
 Volcanology Badge=火山學者徽章
+VOLCANOLOGY BADGE=火山學者徽章
 Peak Badge=山頂徽章
+PEAK BADGE=山頂徽章
 Participation Badge=參與徽章
+PARTICIPATION BADGE=參與徽章
 Esoterica Badge=神秘學徽章
+ESOTERICA BADGE=神秘學徽章
 Clutch Badge=關鍵表現徽章
+CLUTCH BADGE=關鍵表現徽章
 First Aid Badge=急救徽章
+FIRST AID BADGE=急救徽章
 Happy Camper Badge=快樂露營者徽章
+HAPPY CAMPER BADGE=快樂露營者徽章
 Emergency Preparedness Badge=緊急應變徽章
+EMERGENCY PREPAREDNESS BADGE=緊急應變徽章
 Plunderer Badge=掠奪者徽章
+PLUNDERER BADGE=掠奪者徽章
 High Altitude Badge=高海拔徽章
+HIGH ALTITUDE BADGE=高海拔徽章
 Foraging Badge=採集徽章
+FORAGING BADGE=採集徽章
 Arborist Badge=樹木學者徽章
+ARBORIST BADGE=樹木學者徽章
 Endurance Badge=耐力徽章
+ENDURANCE BADGE=耐力徽章
 Mentorship Badge=導師徽章
+MENTORSHIP BADGE=導師徽章
 Cooking Badge=烹飪徽章
+COOKING BADGE=烹飪徽章
 Animal Serenading Badge=動物奏樂徽章
+ANIMAL SERENADING BADGE=動物奏樂徽章
 Toxicology Badge=毒理學徽章
+TOXICOLOGY BADGE=毒理學徽章
 Bouldering Badge=抱石攀岩徽章
+BOULDERING BADGE=抱石攀岩徽章
 Mycology Badge=真菌學徽章
+MYCOLOGY BADGE=真菌學徽章
 Knot Tying Badge=繩結徽章
+KNOT TYING BADGE=繩結徽章
 Survivalist Badge=生存者徽章
+SURVIVALIST BADGE=生存者徽章
 Bing Bong Badge=兵幫徽章
+BING BONG BADGE=兵幫徽章
 Lone Wolf Badge=孤狼徽章
+LONE WOLF BADGE=孤狼徽章
 Speed Climber Badge=快速攀登者徽章
+SPEED CLIMBER BADGE=快速攀登者徽章
 Balloon Badge=氣球徽章
+BALLOON BADGE=氣球徽章
 Naturalist Badge=自然學者徽章
+NATURALIST BADGE=自然學者徽章
 Leave No Trace Badge=無痕徽章
+LEAVE NO TRACE BADGE=無痕徽章
 Gourmand Badge=美食家徽章
+GOURMAND BADGE=美食家徽章
 Bookworm Badge=書蟲徽章
+BOOKWORM BADGE=書蟲徽章
 
 ##階級##
 Tadpole Scout=蝌蚪童軍
