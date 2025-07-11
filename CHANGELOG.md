@@ -1,3 +1,14 @@
+**<details><summary>v1.0.8-zh_tw(2025/07/12)</summary>**
+
+### 翻譯基於版本 `v1.7.a`
+
+### 更新内容
+* 修正Book, UI, Item等翻譯
+* 解決 v1.6.b 更新到 v1.7.a 沒法展示翻譯問題
+* 感謝Mubai5011協助測試
+
+</details>
+
 **<details><summary>v1.0.7-zh_tw(2025/07/04)</summary>**
 
 ### 翻譯基於版本 `v1.6.b`

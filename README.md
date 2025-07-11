@@ -1,12 +1,13 @@
 ![PEAK_ZH_TW_LOGO](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/Logo.png)
 # PEAK 繁體中文翻譯模組 by Voc-夜芷冰
-![version](https://img.shields.io/badge/Version-1.0.7-pink)
-![PEAK version](https://img.shields.io/badge/PEAK-1.6.a-orange)
+![version](https://img.shields.io/badge/Version-1.0.8-pink)
+![PEAK version](https://img.shields.io/badge/PEAK-1.7.a-orange)
 ![make-with-love](https://camo.githubusercontent.com/da124fe0d303f3da8682918930b2f99caf16cda69474c01b4c48598d38f71613/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d616b655f776974685f2545322539442541342545462542382538462d7768697465)
 [![wakatime](https://wakatime.com/badge/user/ca727ba5-9112-4612-b454-d5e407277a51/project/97d38b2f-ce2b-418e-9492-9f3687c2bf1a.svg)](https://wakatime.com/badge/user/ca727ba5-9112-4612-b454-d5e407277a51/project/97d38b2f-ce2b-418e-9492-9f3687c2bf1a)
 
 ## 感謝使用本翻譯模組
 - 如對你有幫助，請給個讚和收藏吧 :D
+- 記得要在遊戲内的設定，把語言更換成 `English` 才可以正常使用
 - 本模組由 `Coding Band` 的 Voc-夜芷冰 基於 [PEAK Russian Translation](https://thunderstore.io/c/peak/p/RTLC/PEAK_Russian_Translation/) 製作，目前僅在 [Thunderstore](https://thunderstore.io/c/peak/p/Vocaloid2048/PEAK_Traditional_Chinese_Translation/) 和 [GitHub](https://github.com/Vocaloid2048/PEAK-zh-tw-Translation) 發佈
 - 【這是社群項目】歡迎各位對翻譯提供建議/協助~ [詳情在這邊](#️翻譯有問題-也想幫忙添加翻譯)
 - 十分感謝[狐空](#狐空-xof_elttil)大大的協助，簡化TPM、替代字體相關設定，玩家現無需額外設定替代用字體亦可以使用
@@ -49,6 +50,7 @@
 - 在 Mod Manager 搜尋 `PEAK Traditional Chinese Translation`
 - 按下下載按鈕，等待相依模組＆本翻譯模組下載完成
 - 透過 Mod Manager 中的「Launch Game」按鈕啟動遊戲，搞掂！
+- 記得要在遊戲内的設定，把語言更換成 `English` 才可以正常使用
 
 ### 🧰若有需要手動修改設定檔的話...
 0. 需要預備三個Zip檔案:
