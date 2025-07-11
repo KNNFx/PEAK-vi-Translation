@@ -1,10 +1,10 @@
 ##keys in Book.txt was origin from team RTLC, zh-tw translate by Voc-夜芷冰
 
 ##求生指南##
-Open/Close=<size\=80%\>開啟/關閉
-Flip Page=翻頁
+open/close=<size\=80%\>開啟/關閉
+flip page=翻頁
 
-How to Not Die=<size\=50%\>《求生指南》
+HOW TO NOT DIE=<size\=50%\>《求生指南》
 A Guide by\nScoutmaster Myres=由\n童軍領袖邁爾斯撰寫
 
 PREFACE=前言

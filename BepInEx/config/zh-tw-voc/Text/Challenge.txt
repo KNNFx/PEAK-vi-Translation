@@ -1,30 +1,30 @@
 ##keys in Challenge.txt was origin from team RTLC, zh-tw translate by Voc-夜芷冰
 #攀登挑戰#
 
-Tenderfoot=新手
-Climbing takes less stamina. Hunger grows more slowly. No time limit.=攀爬消耗更少體力，更慢感到餓，而且無時間限制。
+TENDERFOOT=新手
+CLIMBING TAKES LESS STAMINA. HUNGER GROWS MORE SLOWLY. NO TIME LIMIT.=攀爬消耗更少體力，更慢感到餓，而且無時間限制。
 
-Peak=山頂
+PEAK=山頂
 
-The Island's default difficulty.=預設難度
-r:"^Ascent (\d+)$"=攀登挑戰 $1
+THE ISLAND'S DEFAULT DIFFICULTY.=預設難度
+r:"^ASCENT (\d+)$"=攀登挑戰 $1
 \n\n<alpha\=#CC><size\=70%>And all previous modifiers.=\n\n<alpha\=#CC><size\=70%>還包含先前的所有效果
 
-Fall Damage is greater.=墜落傷害更大。
+FALL DAMAGE IS GREATER.=墜落傷害更大。
 
-Hunger grows faster.=會更快感到餓
+HUNGER GROWS FASTER.=會更快感到餓
 
-Items have increased weight.=道具重量增加
+ITEMS HAVE INCREASED WEIGHT.=道具重量增加
 
-There are no flares atop the Peak.=山頂無信號彈
+THERE ARE NO FLARES ATOP THE PEAK.=山頂無信號彈
 
-The night is cold.=夜晚變得寒冷
+THE NIGHT IS COLD.=夜晚變得寒冷
 
-Climbing takes additional stamina.=攀爬消耗更多體力
+CLIMBING TAKES ADDITIONAL STAMINA.=攀爬消耗更多體力
 
-You cannot revive the dead.=死亡後無法復活
+YOU CANNOT REVIVE THE DEAD.=死亡後無法復活
 
-r:"^Ascent (\d+) UNLOCKED!$"=攀登挑戰 $1 已解鎖！
+r:"^ASCENT (\d+) UNLOCKED!$"=攀登挑戰 $1 已解鎖！
 
 ASCENTS UNLOCKED=攀登挑戰已解鎖
 PRESS ANY BUTTON TO CONTINUE=按任意鍵繼續

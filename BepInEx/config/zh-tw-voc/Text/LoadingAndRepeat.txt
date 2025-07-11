@@ -5,8 +5,8 @@ THIS GAME USES VOICE CHAT=<size\=90%\>此遊戲使用語音聊天
 PLEASE USE HEADPHONES AND A MICROPHONE=請使用耳機和麥克風
 SELECT MICROPHONE=選擇麥克風
 CONTINUE=繼續
-Connecting...=連線中...
-Authenticating...=驗證中...
+CONNECTING...=連線中...
+AUTHENTICATING...=驗證中...
 
 L=載
 LO=載入
@@ -39,6 +39,14 @@ LOADING...LOADING...LOADING.=載入中...載入中...載入中.
 LOADING...LOADING...LOADING..=載入中...載入中...載入中..
 LOADING...LOADING...LOADING...=載入中...載入中...載入中...
 LOADING...LOADING...LOADING...L=載入中...載入中...載入中...載
+LOADING...LOADING...LOADING...LO=載入中...載入中...載入中...載入
+LOADING...LOADING...LOADING...LOA=載入中...載入中...載入中...載入中
+LOADING...LOADING...LOADING...LOADI=載入中...載入中...載入中...載入中
+LOADING...LOADING...LOADING...LOADIN=載入中...載入中...載入中...載入中
+LOADING...LOADING...LOADING...LOADING=載入中...載入中...載入中...載入中
+LOADING...LOADING...LOADING...LOADING.=載入中...載入中...載入中...載入中.
+LOADING...LOADING...LOADING...LOADING..=載入中...載入中...載入中...載入中..
+LOADING...LOADING...LOADING...LOADING...=載入中...載入中...載入中...載入中...
 
 D=第
 DA=第

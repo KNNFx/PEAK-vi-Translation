@@ -1,4 +1,7 @@
 ##keys in Achievement.txt was origin from team RTLC, zh-tw translate by Voc-夜芷冰
+
+r:"^LOC: (.+)$"=$1
+
 #成就#
 
 ACCOLADES=成就
