@@ -158,6 +158,15 @@ LOC: NAME_PARASOL=遮陽傘
 Cactus Ball=仙人掌球
 CACTUS BALL=仙人掌球
 LOC: NAME_CACTUS BALL=仙人掌球
+Aloe Vera=蘆薈
+ALOE VERA=蘆薈
+Balloon=氣球
+BALLOON=氣球
+Dynamite=炸藥
+DYNAMITE=炸藥
+LOC: NAME_DYNAMITE=炸藥
+Sunscreen=防曬乳
+SUNSCREEN=防曬乳
 
 ##漿果##
 Green Crispberry=綠色脆莓
@@ -250,3 +259,8 @@ Brown Berrynana=棕色香蕉莓
 BROWN BERRYNANA=棕色香蕉莓
 Orange Berrynana=橙色香蕉莓
 ORANGE BERRYNANA=橙色香蕉莓
+Prickleberry=刺莓
+PRICKLEBERRY=刺莓
+LOC: NAME_PRICKLEBERRY=刺莓
+Red Prickleberry=紅刺莓
+RED PRICKLEBERRY=紅刺莓

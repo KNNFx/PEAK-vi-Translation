@@ -13,6 +13,7 @@ AUTO=自動
 r:"^STYLE (.+)$"=風格$1
 INVERT Y=反轉 Y 軸
 INVERT X=反轉 X 軸
+REDUCE CAMERA BOBBING=減少鏡頭晃動
 
 OFF=關閉
 ON=開啟
@@ -57,6 +58,7 @@ MICROPHONE=麥克風
 MICROPHONE MODE=麥克風模式
 VOICE ACTIVATION=語音感應
 PUSH TO TALK [V]=按鍵說話 [V]
+PUSH TO TALK=按鍵說話
 
 MASTER VOLUME=整體音量
 MUSIC VOLUME=音樂音量
