@@ -1,0 +1,42 @@
+PASSPORT=HỘ CHIẾU
+Name=Tên
+Passport no.=Mã hộ chiếu 
+Nationality=Quốc tịch
+sr:"^v.(\d+).(\d+).(.+)$"=v.$1.$2.$3 - AowVN
+S=<size\=100\>B
+SH=<size\=100\>BỜ
+SHO=<size\=100\>BỜ B
+SHOR=<size\=100\>BỜ BI
+SHORE=<size\=100\>BỜ BIỂN
+T=<size\=100\>N
+TR=<size\=100\>NH
+TRO=<size\=100\>NHIỆ
+TROP=<size\=100\>NHIỆ
+TROPI=<size\=100\>NHIỆT Đ
+TROPIC=<size\=100\>NHIỆT ĐỚ
+TROPICS=<size\=100\>NHIỆT ĐỚI
+A=<size\=100\>C
+AL=<size\=100\>CỰ
+ALP=<size\=100\>CỰC
+ALPI=<size\=100\>CỰC L
+ALPIN=<size\=100\>CỰC LẠ
+ALPINE=<size\=100\>CỰC LẠNH
+C=<size\=100\>V
+CA=<size\=100\>VÒ
+CAL=<size\=100\>VÒN
+CALD=<size\=100\>VÒNG
+CALDE=<size\=100\>VÒNG LỬ
+CALDER=<size\=100\>VÒNG LỬA
+CALDERA=<size\=100\>VÒNG LỬA
+T=<size\=100\>L
+TH=<size\=100\>LÒ
+THE=<size\=100\>LÒ 
+THE =<size\=100\>LÒ R
+THE K=<size\=100\>LÒ RÈ
+THE KI=<size\=100\>LÒ RÈN
+THE KIL=<size\=100\>LÒ RÈN
+THE KILN=<size\=100\>LÒ RÈN
+P=<size\=100\>P
+PE=<size\=100\>PE 
+PEA=<size\=100\>PEA
+PEAK=<size\=100\>PEAK

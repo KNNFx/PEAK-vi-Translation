@@ -1,0 +1,33 @@
+##keys in Challenge.txt was origin from team RTLC, zh-tw translate by Voc-夜芷冰
+#攀登挑戰#
+
+TENDERFOOT=新手
+CLIMBING TAKES LESS STAMINA. HUNGER GROWS MORE SLOWLY. NO TIME LIMIT.=攀爬消耗更少體力，更慢感到餓，而且無時間限制。
+
+PEAK=山頂
+
+THE ISLAND'S DEFAULT DIFFICULTY.=預設難度
+r:"^ASCENT (\d+)$"=攀登挑戰 $1
+\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=\n\n<alpha\=#CC><size\=70%>還包含先前的所有效果
+
+FALL DAMAGE IS GREATER.=墜落傷害更大。
+
+HUNGER GROWS FASTER.=會更快感到餓
+
+ITEMS HAVE INCREASED WEIGHT.=道具重量增加
+
+THERE ARE NO FLARES ATOP THE PEAK.=山頂無信號彈
+
+THE NIGHT IS COLD.=夜晚變得寒冷
+
+CLIMBING TAKES ADDITIONAL STAMINA.=攀爬消耗更多體力
+
+YOU CANNOT REVIVE THE DEAD.=死亡後無法復活
+
+r:"^ASCENT (\d+) UNLOCKED!$"=攀登挑戰 $1 已解鎖！
+
+ASCENTS UNLOCKED=攀登挑戰已解鎖
+PRESS ANY BUTTON TO CONTINUE=按任意鍵繼續
+
+REWARD:=獎勵：
+START=開始

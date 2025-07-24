@@ -1,0 +1,64 @@
+##keys in Settings.txt was origin from team RTLC, zh-tw translate by Voc-夜芷冰
+
+#設定頁：一般#
+GENERAL=一般
+BACK=返回
+
+LANGUAGE=語言
+FIELD OF VIEW=視野範圍
+MOUSE SENSITIVITY=滑鼠靈敏度
+CONTROLLER SENSITIVITY=手把靈敏度
+CONTROLLER ICONS=手把按鈕圖標風格
+AUTO=自動
+r:"^STYLE (.+)$"=風格$1
+INVERT Y=反轉 Y 軸
+INVERT X=反轉 X 軸
+
+OFF=關閉
+ON=開啟
+
+LOBBY MODE=大廳模式
+FRIENDS=所有好友
+INVITE ONLY=僅限邀請
+
+
+#圖形#
+GRAPHICS=圖形
+
+WINDOW MODE=視窗模式
+FULLSCREEN=全螢幕
+WINDOWED=視窗化
+WINDOWED FULLSCREEN=無邊框視窗化
+
+MAX FRAMERATE=最大影格率
+
+VSYNC=垂直同步
+NONE=無
+ENABLED=啟用
+
+RENDER SCALE=彩現縮放
+NATIVE=原生
+HIGH=高
+MEDIUM=中
+LOW=低
+
+SHADOW DISTANCE=陰影距離
+OFF=關閉
+
+WORLD QUALITY=世界品質
+AMBIENT OCCLUSION=環境光遮蔽
+RESOLUTION=解析度
+
+
+#音效#
+AUDIO=音效
+
+MICROPHONE=麥克風
+MICROPHONE MODE=麥克風模式
+VOICE ACTIVATION=語音感應
+PUSH TO TALK [V]=按鍵說話 [V]
+
+MASTER VOLUME=整體音量
+MUSIC VOLUME=音樂音量
+SFX VOLUME=音效音量
+VOICES VOLUME=語音音量

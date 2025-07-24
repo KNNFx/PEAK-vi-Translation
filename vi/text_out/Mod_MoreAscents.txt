@@ -1,0 +1,11 @@
+r:"^Chaos (.+)$"=混沌試煉 $1
+Butter Fingers.=手上粘滿蜂蜜。
+You're more vulnerable to everything but Injuries, Hunger and Weight.=提升除了受傷、飢餓、負重外的所有體力消耗。
+Big Luggage's have a chance to only contain one item.=大型行李箱可能只有一件物品。
+Helping makes you drowsy.=讓你昏昏欲睡。
+No more Revive Statues.=不再生成古老雕像。
+Going unconscious is instant death.=昏倒後立即死亡。
+Campfires are extremely hot.=營火將會變得非常熱。
+The sun is very hot, don't get heatstroke.=陽光將會變得十分熱，請提防中暑！
+Bing Bong calls upon an evil force if not given attention.=如果不加以注意的話，兵幫就會召喚邪惡的力量。
+Passing out instantly turns you into a skeleton.=昏倒後你會立刻變成一具骷髏。

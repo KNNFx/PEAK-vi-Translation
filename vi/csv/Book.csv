@@ -1,0 +1,83 @@
+key,value
+open/close,<size\=80%\>mở/đóng
+flip page,lật trang
+HOW TO NOT DIE,CÁCH ĐỂ\n\n\nKHÔNG HẸO
+A Guide by,Một hướng dẫn bởi
+Scoutmaster Myres,Trưởng Hướng Đạo Myres
+PREFACE,LỜI NÓI ĐẦU
+"r:""^(.+)Ahh...........(.+)$""","\t啊.................................................大自然。\n\n\t在這個世界上，有什麼比在奇妙的山頂上，風吹過你的頭皮時，咬一口多汁的穀物棒更令人陶醉的呢？\n\n\t但當然，大自然不僅僅是遊樂場的娛樂設施，不是我們隔著玻璃悠閒欣賞的景點！的確，大自然既美麗又危險。從10,000英尺高處的景色遠比6英尺深的地下好看！（XoX）\n\n\t在我40年的童軍領袖生涯中，我積累了許多在危險荒野中生存的規則，這些規則應該能幫助你應對童軍活動不幸出錯的罕見情況。但當然，這些規則與童軍的最高準則相比都顯得微不足道..."
+RULE 0\n,LUẬT SỐ 0\n
+NEVER ABANDON A FRIEND IN NEED!,ĐỪNG BỎ BẠN KHI HOẠN NẠN!
+-Scoutmaster Myres,-Trưởng Hướng Đạo Myres
+RULE 1,LUẬT SỐ 1
+KEEP MOVING!,<size\=45\>CỨ ĐI ĐI!</size>
+"First things first: you've gotta get to HIGH GROUND if you wanna be spotted. Nobody ever got rescued off of a mysterious island by loitering around on the beach. So find the nearest peak, and start making your way there.","Việc quan trọng nhất hãy làm trước: Nếu muốn người khác để ý thì bạn phải leo lên THẬT CAO. Nếu bạn cứ loanh quanh trên cái bãi biển đồng không cô quạnh thì chẳng có ai đến cứu. Nên hãy tìm đỉnh núi gần nhất, và trèo lên đó."
+"r:""^(.+)LOOK AROUND$""",$1QUAN SÁT
+"r:""^(.+)WALK$""",$1ĐI LẠI
+"Time is of the essence in the wilderness, so get running towards your destination!","Thời gian là vàng trong thế giới hoang dã, hãy chạy nước rút tới đích!"
+"r:""^(.+)SPRINT$""",$1CHẠY
+"See a gap in the trail, or a prickly thorn? Go ahead and JUMP over it!","Thấy một khoảng trống trên đường, hoặc một bụi gai? Hãy thẳng tiến NHẢY qua nó!"
+Keep in mind that jumping while sprinting will tire you out quickly! Take a quick rest if you need to - you won't do anyone any favors by passing out on the mountain!,"Hãy nhớ rằng việc nhảy trong khi chạy sẽ làm bạn kiệt sức nhanh hơn! Nghỉ ngơi để lấy sức nếu thấy cần thiết - bạn sẽ không giúp được ai nếu ngất xỉu trên núi đâu！"
+RULE 2,LUẬT SỐ 2
+KEEP MOVING (UP)! ,<size\=45>CỨ ĐI LÊN CAO!</size>
+"Obviously, you're not going to make it up a mountain without climbing.","\tTất nhiên, bạn sẽ thể lên được đỉnh núi mà không leo trèo."
+"You can climb almost any surface, so long as you have the stamina!","Bạn có thể leo lên hầu hết mọi bề mặt, miễn là bạn có đủ thể lực!"
+"r:""^HOLD(.+)EMPTY-HANDED: GRAB WALL$""",GIỮ$1TAY TRỐNG: BÁM TƯỜNG
+"r:""^(.+)IN AIR: GRAB WALL$""",$1  TRONG KHÔNG TRUNG: BÁM TƯỜNG
+"r:""^(.+)WHILE CLIMBING: LUNGE$""",$1 ĐANG LEO: LAO VỀ TRƯỚC
+RULE 3,LUẬT SỐ 3
+ALWAYS LEND A HAND!,<size\=45>Luôn giang tay giúp đỡ！</size>
+Nothing is more important than sticking together as a team!,Không có gì\nquan trọng    hơn việc đoàn kết trong một tập thể!
+"When your hands are empty, reach out to a friend who's mid-climb and help them reach the next ledge safely!","Khi tay bạn trống, đưa tay cho một người bạn đang leo để kéo họ lên an toàn！"
+"r:""^(.+) EMPTY-HANDED: HELP UP FRIEND$""",<size\=85%\>$1</size>TAY TRỐNG: GIÚP BẠN
+"You can help from below, too! Crouch down and let a fellow scout stand on your head, then jump to give them a boost!","Bạn cũng có thể giúp họ từ phía dưới! Cúi xuống và để một người bạn đứng trên đầu bạn, sau đó nhảy lên để đẩy họ lên cao hơn"
+RULE 4,LUẬT SỐ 4
+"STAY ALERT, STAY ALIVE!","<size\=45>GIỮ CẢNH GIÁC,\n\nGIỮ MẠNG!</size>"
+"r:""^	An effective scout keeps an eye on their(.+)$","\tMột hướng đạo sinh lành nghề sẽ luôn để ý tới<color\=#0f7f00>thanh thể lực</color> của mình. Nếu bạn hết thể lực, bạn 如果體力耗盡，你將暫時無法跑步、跳躍，最重要的是無法攀爬。\n\n\t最壞的是從山上墜落致死——最糟糕的墜落方式！"
+RULE 5,規則 5
+LIFE IS PAIN!,<size\=45>生活即痛苦！</size>
+"r:""^	As you make your way through the untamed wilderness(.+)$""",\t在未開發的荒野中前行，難免會有些擦傷和碰撞。\n\n\t受傷越重，能用於跑步和攀爬的<color\=#0f7f00>體力</color>就越少，因此要盡快用繃帶或藥草處理傷口！
+RULE 6,規則 6
+STAY HUNGRY,<size\=50>保持飢餓</size>\n
+\n<size\,"30>(ACTUALLY, DON'T!)= \n<size\=25>\n(不要真的做呀！)"
+"r:""^	Getting hurt isn't the only way for your(.+)$""",\t受傷不是讓你的<color\=#0f7f00>體力</color>迅速下降的唯一方式。在攀爬時，你會感到<color\=#b58200>飢餓</color>，10位專家中有10位建議吃食物。\n\n\t小心食用野外的植物！它們可能有毒，會嚴重影響你的一天。如果有選擇，挑選你信任的企業生產的包裝零食！
+RULE 7,規則 7
+DON'T OVERPACK!,<size\=45>不要超載！</size>
+"r:""^	Putting a backpack on is a great way to carry additional items, which can make the difference between life and death!(.+)$""",\t背上背包是攜帶更多道具的好方法，這可能攸關生死！\n\n\t然而，你攜帶的<color\=#61380a>重量</color>越多，能用於攀爬的體力就越少！經驗豐富的童軍知道帶上所有必需品……不多不少！
+RULE 8,規則 8
+KEEP AN EYE OUT!,<size\=45>保持警惕！</size>
+"r:""^	In a survival situation, one of the worst things that can happen is getting separated from the group.(.+)$""",\t在生存情境中，最糟糕的事情之一就是與團隊失散。\n\n\t盡可能保持持續聯繫，並提前標記你的下一條路線，以免落下朋友！
+"r:""^(.+):PING LOCATION$""",$1ĐÁNH DẤU VỊ TRÍ
+IN CONCLUSION,<size\=45>結論</size>
+"r:""^	Exploring the wilderness is a dangerous activity that can kill you instantly - but so is everything in this world worth doing, like falling in love.(.+)$""",\t探索荒野是一項危險的活動，可能瞬間致命——但這個世界上值得做的事情都是如此，比如墜入愛河。\n\n\t永遠不要忘記做我們美麗世界的良好管家，再次提醒，永遠不要忘記：
+Torn Page,被撕掉了的一頁
+TORN PAGE,被撕掉了的一頁
+"Dear Diary, bad news!!!\n\n	The ship captain made an oopsy, and we've wound up crashed on this mysterious island! Thankfully, mysterious islands are my specialty.\n\n	With our whole troop working together, we'll reach the top of the PEAK and signal for help in no time!\n\n	In the meantime, I'll take this opportunity to add some additional pages to my famous guidebook.\n\n	<align\",right>-Scoutmaster Myres\n=親愛的日記，壞消息！！！\n\n	船長出了個大錯，我們撞上了這個神秘島嶼！幸好，我相當熟悉如何在神秘島嶼存活下去。\n\n	只要我們整個團隊齊心協力，我們很快就能到達頂峰並發出求救信號！\n\n	與此同時，我將趁此機會為我的著名指南書添加一些額外頁面。\n\n	<align\=right>-童軍領袖邁爾斯\n
+"r:""^(.+)JUMP\n$""",$1NHẢY\n
+"r:""^(.+)CROUCH$""",$1NGỒI
+"r:""^BONUS RULE (\d+)$""",額外規則 $1
+WHERE'D EVERYONE GO?,大家都去哪了？
+DON'T FORGET<br><size\,150%>LUẬT SỐ 0!=<size\=110%>ĐỪNG QUÊN\n\n規則 0！
+RULE 0 RULE 0 RULE 0 RULE 0,<size\=70%\>LUẬT SỐ 0 LUẬT SỐ 0 LUẬT SỐ 0
+Never Abandon a Friend in Need!,	Đừng Bỏ Bạn Khi Hoạn Nạn！
+THEY,HỎ
+LEFT,BỎ
+ME,TÔI
+BEHIND,LẠI
+SCAN YOUR SHROOMS!,掃描你手中的菇！
+"r:""^(.+)Mushrooms can be a valuable source of nutrition in the wilderness.(.+)$""",\t神奇蘑菇在野外可是珍貴的營養來源。但小心點！有些種類的蘑菇會殺掉你，讓你嚇得拉褲子。\n\n\t不過，總有方法分辨哪些是有毒的，這是其中一個例子！
+GATHER 'ROUND THE FIRE!,在營火旁集合！
+"r:""^(.+)If you find a nice place to light a campfire(.+)$""",\t如果你找到一個適合點燃營火的好地方，記得先把朋友們叫過來！營火帶來的可不只是溫暖和熟食……還有更棒的東西——動力！
+EMBRACE THE OCCULT!,接受神秘力量！
+"r:""^(.+)Wuh woh! One of our scouts stepped on a sea urchin and died!!!(.+)$""",\t<size\=150%\>哇哦！我們的一個朋友踩到海膽死了！本來我都要難過死了……但另一個夥伴摸了那座奇怪的雕像，就把朋友復活了！\n\n\n\n\n\n\n看來這座島打破了死亡的規則……真瘋狂！或許當大家都還活著時，再摸一下那個雕像會發生更有趣的事情……</size>
+"r:""^(.+)Seems like this island bends the rules of mortality itself...(.+)$""",
+HUDDLE UP!,<size\=85%\>擠在一起！
+"r:""^(.+)As we approach the PEAK, the temperature has begun dropping dramatically.(.+)$""",<size\=150%\>\t隨著我們靠近頂峰，氣溫開始急劇下降。必須隨時找掩護，強風中暴露在空曠處簡直是死路一條。\n\n\n\n\n\n\n\n\n\n\n\t如果一切都無效，和朋友們擠在一起分享體溫，或許能救你免於凍死。</size>
+"r:""^(.+)If all else fails, huddling with your friends to share body heat might just save you from an icy grave(.+)$""",
+I JUST NEED A NAP...,\n我只是需要小睡一下……
+"r:""^(.+)I saw such a pretty sight...(.+)$""",\t我看到了一個好美的景象……一顆月亮形狀的漂亮水果，被螢火蟲包圍……\n\n\t現在我覺得好放鬆……小睡一下應該也不錯吧……
+BONUS RULE ?,額外規則？
+"r:""^(.+)I had such a wonderful nap, but when I woke up the rest of the troop was gone!(.+)$""",\t我睡了一個好舒服的覺，但醒來時整個隊伍都不見了！\n\n\t我相信他們就在附近。他們不會蠢到因為我小睡一下就違反<color\=red>規則0</color>吧！
+"r:""^We made it!!(.+)$""",我們成功了！\n\n\t即使沒有領隊的幫忙，我們還是獲救了！\n\n\tSněžnýPerník第一個登頂。\nZedorfska毫髮無傷地脫險。\nCaptainBear受了傷但精神很好。\nSqudel和Kirpich有點瘀傷，幸好他們有彼此！\nRonokopl讓隊伍吃飽又安全。\n\n\tMyres先生，如果你在讀這個……我們找不到你！對不起！
+"r:""^Dear Diary, bad(.+)$""",親愛的日記：\n\n\t壞消息！船長出了個大錯，我們撞上了這個神秘島嶼！幸好，荒島求生是我的專長。\n\n\t只要我們整個隊伍齊心協力，很快就能登上頂峰並發出求救信號！\n\n\t與此同時，我要趁機為我的著名指南書再添幾頁。\n\n<align\=left>領隊Myres\n
+This is a blank page.\n,Đây là một trang trống.\n
