@@ -16,7 +16,8 @@
 - 本模組並非官方製作，部分内容由AI輔助翻譯，或有文法錯漏！<br>
 - 目前繼續施工優化翻譯中 （超怕不小心用了粵語語法）
 - 目前開放模組翻譯相關貢獻~
-- 歡迎fork來翻譯成其他語言，如果能標注出處的話會十分感謝~
+- [歡迎fork來翻譯成其他語言，如果能標注出處的話會十分感謝~](I_WANT_TO_FORK.md)
+- [Welcome to fork and translate into other languages.](I_WANT_TO_FORK.md)
 
 ## 💭夜芷冰的呢喃
 ```
