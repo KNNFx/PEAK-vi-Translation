@@ -1,5 +1,5 @@
 # 疑難排解 Troubleshoot by Voc-夜芷冰
-![alt text](_IMG/troubleshoot/zzz_bug.png)
+![alt text](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/_IMG/troubleshoot/zzz_bug.png)
 ## 前言
 為了方便各位能儘快解決當前遇到的問題<br>
 以及無須等待這邊回覆，故此特撰本文，不定期更新<br>
@@ -15,17 +15,17 @@
 **請確認您的設定檔是否已經安裝了這三個模組**
 - 一般情況下，當您安裝繁中翻譯時，它會自動安裝其餘兩個依賴
 - 若有遺漏，請自行查找安裝
-![](_IMG/troubleshoot/img_default_list.png)
+![](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/_IMG/troubleshoot/img_default_list.png)
 
 
 ### `Failed to read BepInEx core directory` / 但啟動後沒有發現 `LogOutput.log`
 這個有點麻煩，可能是根本連模組都沒啟動到，解決辦法如下：
 |步驟|圖片|
 |---|---|
-|請開啟一個新的檔案總管，輸入這個路徑<br>`%appdata%\com.kesomannen.gale\peak\profiles\<設定檔的名字，一般是Default>\BepInEx`|![alt text](_IMG/troubleshoot/img_explorer_navigate.png)|
-|接着，請把圖中這三個檔案複製（不要複製資料夾！）|![alt text](_IMG/troubleshoot/img_default_profile_explorer.png)|
-|然後，請到Steam的收藏庫，右鍵左邊遊戲列表的 `PEAK`，按照圖中選擇|![alt text](_IMG/troubleshoot/img_steam_list.png)|
-|正確按下後，您應該會開了一個新的檔案總管<br>請把上面説的三個檔案在這邊貼上，**確保不要有 `BepInEx` 資料夾**!|![alt text](_IMG/troubleshoot/img_peak_steam_explorer.png)|
+|請開啟一個新的檔案總管，輸入這個路徑<br>`%appdata%\com.kesomannen.gale\peak\profiles\<設定檔的名字，一般是Default>\BepInEx`|![alt text](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/_IMG/troubleshoot/img_explorer_navigate.png)|
+|接着，請把圖中這三個檔案複製（不要複製資料夾！）|![alt text](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/_IMG/troubleshoot/img_default_profile_explorer.png)|
+|然後，請到Steam的收藏庫，右鍵左邊遊戲列表的 `PEAK`，按照圖中選擇|![alt text](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/_IMG/troubleshoot/img_steam_list.png)|
+|正確按下後，您應該會開了一個新的檔案總管<br>請把上面説的三個檔案在這邊貼上，**確保不要有 `BepInEx` 資料夾**!|![alt text](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/_IMG/troubleshoot/img_peak_steam_explorer.png)|
 |回到Mod Launcher，按下Launch game即可||
 
 ### 承上，都已經正確安裝，但啟動後依然沒有模組

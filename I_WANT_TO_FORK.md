@@ -14,13 +14,13 @@
 - The word sheet (Base on [教育部常用字4808字.txt](https://github.com/Watermelonnn/ChineseUsefulToolKit/blob/master/%E6%95%99%E8%82%B2%E9%83%A8%E5%B8%B8%E7%94%A8%E5%AD%974808%E5%AD%97.txt) in this guide)
 > Better to confirm whether is this usage is allow in the font license
 
-![alt text](_IMG/fork/img_fork_font_guide0.png)
+![alt text](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/_IMG/fork/img_fork_font_guide0.png)
 
 ### Step 1: Make a TextMeshPro
 
 - First, please navigate to `Window` ->`TextMeshPro` -> `Font Asset Creator`
 
-![alt text](_IMG/fork/img_fork_font_guide1_1.png)
+![alt text](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/_IMG/fork/img_fork_font_guide1_1.png)
 
 - Then, select the font that u want in `Source Font`
   - If necessery, choose the font face that you want.
@@ -35,15 +35,15 @@
   - Take a look the preview of the font atlas
   - `Save as` your result if you are fulfill with this result
 
-![alt text](_IMG/fork/img_fork_font_guide1_2.png)
+![alt text](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/_IMG/fork/img_fork_font_guide1_2.png)
 
 **IMPORTANT!!**<br>
 - You will need to do the generation twice
 - E.g. Save as `Normal.asset` first, then press the `Generate Font Atlas` and Save as `Transmit.asset` 
-![alt text](_IMG/fork/img_fork_font_guide1_3.png)
+![alt text](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/_IMG/fork/img_fork_font_guide1_3.png)
 
 ### Step 2: Inspector
-![alt text](_IMG/fork/img_fork_font_guide2.png)
+![alt text](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/_IMG/fork/img_fork_font_guide2.png)
 **You will need to do it on both normal and transmit**
 - Press the Expand button at the font's right side
 - `normal Atlas`
@@ -54,19 +54,19 @@
 ### Step 3: Packaging
 - First, Navigate to `Window` -> `AssetBundle Browser`
 - Then, Right click the left area and press `Add new bundle`
-![alt text](_IMG/fork/img_fork_font_guide3_2.png)
+![alt text](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/_IMG/fork/img_fork_font_guide3_2.png)
 
 - Next, Pull `normal` and `transmit` into the bundle you just created
-![alt text](_IMG/fork/img_fork_font_guide3_1.png)
+![alt text](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/_IMG/fork/img_fork_font_guide3_1.png)
 
 - Besides, Press the `Build` Tab, then select:
   - Build Target: `Standalone Windows`
   - Output Path: `Assets/AssetBundles`
   - Press `Build` button and wait
-- ![alt text](_IMG/fork/img_fork_font_guide3_3.png)
+- ![alt text](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/_IMG/fork/img_fork_font_guide3_3.png)
 
 - Finally, once it done, you can find the font bundle *(sarasa_gothic in this example)* in `Assets/AssetBundles`
-![alt text](_IMG/fork/img_fork_font_guide3_4.png)
+![alt text](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/_IMG/fork/img_fork_font_guide3_4.png)
 
 - Copy & Paste to `../BepInEx/config/FontPatcher/`, and change the name of it to ```00 <your_font_name_as_well>```
   - P.S. `00` means the priority of the font in this folder, `01` is the second priority, etc...
