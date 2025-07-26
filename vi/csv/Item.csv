@@ -3,8 +3,8 @@ Luggage,Va li
 LUGGAGE,VA LI
 Big Luggage,Va Li Lớn
 BIG LUGGAGE,VA LI LỚN
-Explorer's Luggage,Va Li Nhà Khai Phá
-EXPLORER'S LUGGAGE,VA LI NHÀ KHAI PHÁ
+Explorer's Luggage,Va Li Nhà Thám Hiểm
+EXPLORER'S LUGGAGE,VA LI NHÀ THÁM HIỂM
 Ancient Luggage,VA LI CỔ ĐẠI
 ANCIENT LUGGAGE,VA LI CỔ ĐẠI
 Chain,Xích
@@ -31,9 +31,9 @@ Coconut,Dừa
 COCONUT,DỪA
 Coconut Half,Dừa Bổ
 COCONUT HALF,DỪA BỔ
-anti-rope spool, dây phản trọng lực
+anti-rope spool,dây phản trọng lực
 ANTI-ROPE SPOOL,DÂY PHẢN TRỌNG LỰC
-anti-rope, dây phản trọng lực
+anti-rope,dây phản trọng lực
 ANTI-ROPE,DÂY PHẢN TRỌNG LỰC
 rope,dây
 ROPE,DÂY
@@ -45,8 +45,8 @@ First Aid Kit,Bộ Sơ Cứu
 FIRST AID KIT,BỘ SƠ CỨU
 Bandages,Băng Gạc
 BANDAGES,BĂNG GẠC
-Bugle Shroom,Nấm Cương
-BUGLE SHROOM,NẤM CƯƠNG
+Bugle Shroom,Nấm Kèn
+BUGLE SHROOM,NẤM KÈN
 Cluster Shroom,Nấm Cụm
 CLUSTER SHROOM,NẤM CỤM
 Button Shroom,Nấm Nút
@@ -129,18 +129,18 @@ Megaphone,Loa
 MEGAPHONE,LOA
 Berrynana Peel,Vỏ Chuối Mọng
 BERRYNANA PEEL,VỎ CHUỐI MỌNG
-Scorchberry,Quả Thiêu
-SCORCHBERRY,Quả Thiêu
-Napberry,Quả Ngủ
-NAPBERRY,QUẢ NGỦ
+Scorchberry,Ớt Thiêu
+SCORCHBERRY,ỚT THIÊU
+Napberry,Dâu Ngủ
+NAPBERRY,DÂU NGỦ
 Antidote,Thuốc Giải Độc
 ANTIDOTE,THUỐC GIẢI ĐỘC
 Bugle of Friendship,Kèn Hữu Nghị
 BUGLE OF FRIENDSHIP,KÈN HỮU NGHỊ
 Portable Stove,Bếp Di Động
 PORTABLE STOVE,BẾP DI ĐỘNG
-Guidebook,Sách Hướng Dẫn
-GUIDEBOOK,SÁCH HƯỚNG DẪN
+Guidebook,Cẩm Nang
+GUIDEBOOK,CẨM NANG
 Flare,Pháo Sáng
 FLARE,PHÁO SÁNG
 Piton,Neo Đá
@@ -167,79 +167,79 @@ DYNAMITE,THUỐC NỔ
 LOC: NAME_DYNAMITE=THUỐC NỔ
 Sunscreen,Kem Chống Nắng
 SUNSCREEN,KEM CHỐNG NẮNG
-Green Crispberry,Quả Giòn Lục
-GREEN CRISPBERRY,QUẢ GIÒN LỤC
-Red Crispberry,Quả Giòn Đỏ
-RED CRISPBERRY,QUẢ GIÒN ĐỎ
-Yellow Crispberry,Quả Giòn Vàng
-YELLOW CRISPBERRY,QUẢ GIÒN VÀNG
-Purple Crispberry,Quả Giòn Tím
-PURPLE CRISPBERRY,QUẢ GIÒN TÍM
-Black Crispberry,Quả Giòn Đen
-BLACK CRISPBERRY,QUẢ GIÒN ĐEN
-Blue Crispberry,Quả Giòn Xanh
-BLUE CRISPBERRY,QUẢ GIÒN XANH
-Pink Crispberry,Quả Giòn Hồng
-PINK CRISPBERRY,QUẢ GIÒN HỒNG
-Brown Crispberry,Quả Giòn Nâu
-BROWN CRISPBERRY,QUẢ GIÒN NÂU
-Orange Crispberry,Quả Giòn Cam
-ORANGE CRISPBERRY,QUẢ GIÒN CAM
-Green Kingberry,Quả Vương Lục
-GREEN KINGBERRY,QUẢ VƯƠNG LỤC
-Red Kingberry,Quả Vương Đỏ
-RED KINGBERRY,QUẢ VƯƠNG ĐỎ
-Yellow Kingberry,Quả Vương Vàng
-YELLOW KINGBERRY,QUẢ VƯƠNG VÀNG
-Purple Kingberry,Quả Vương Tím
-PURPLE KINGBERRY,QUẢ VƯƠNG TÍM
-Black Kingberry,Quả Vương Đen
-BLACK KINGBERRY,QUẢ VƯƠNG ĐEN
-BLACK KINGBERRY,QUẢ VƯƠNG ĐEN
-Blue Kingberry,Quả Vương Xanh
-BLUE KINGBERRY,QUẢ VƯƠNG XANH
-Pink Kingberry,Quả Vương Hồng
-PINK KINGBERRY,QUẢ VƯƠNG HỒNG
-Brown Kingberry,Quả Vương Nâu
-BROWN KINGBERRY,QUẢ VƯƠNG NÂU
-Orange Kingberry,Quả Vương Cam
-ORANGE KINGBERRY,QUẢ VƯƠNG CAM
-Green Clusterberry,Quả Cụm Lục
-GREEN CLUSTERBERRY,QUẢ CỤM LỤC
-Red Clusterberry,Quả Cụm Đỏ
-RED CLUSTERBERRY,QUẢ CỤM ĐỎ
-Yellow Clusterberry,Quả Cụm Vàng
-YELLOW CLUSTERBERRY,QUẢ CỤM VÀNG
-Purple Clusterberry,Quả Cụm Tím
-PURPLE CLUSTERBERRY,QUẢ CỤM TÍM
-Black Clusterberry,Quả Cụm Đen
-BLACK CLUSTERBERRY,QUẢ CỤM ĐEN
-Blue Clusterberry,Quả Cụm Xanh
-BLUE CLUSTERBERRY,QUẢ CỤM XANH
-Pink Clusterberry,Quả Cụm Hồng
-PINK CLUSTERBERRY,QUẢ CỤM HỒNG
-Brown Clusterberry,Quả Cụm Nâu
-BROWN CLUSTERBERRY,QUẢ CỤM NÂU
-Orange Clusterberry,Quả Cụm Cam
-ORANGE CLUSTERBERRY,QUẢ CỤM CAM
-Green Winterberry,Quả Đông Lục
-GREEN WINTERBERRY,QUẢ ĐÔNG LỤC
-Red Winterberry,Quả Đông Đỏ
-RED WINTERBERRY,QUẢ ĐÔNG ĐỎ
-Yellow Winterberry,Quả Đông Vàng
-YELLOW WINTERBERRY,QUẢ ĐÔNG VÀNG
-Purple Winterberry,Quả Đông Tím
-PURPLE WINTERBERRY,QUẢ ĐÔNG TÍM
-Black Winterberry,Quả Đông Đen
-BLACK WINTERBERRY,QUẢ ĐÔNG ĐEN
-Blue Winterberry,Quả Đông Xanh
-BLUE WINTERBERRY,QUẢ ĐÔNG XANH
-Pink Winterberry,Quả Đông Hồng
-PINK WINTERBERRY,QUẢ ĐÔNG HỒNG
-Brown Winterberry,Quả Đông Nâu
-BROWN WINTERBERRY,QUẢ ĐÔNG NÂU
-Orange Winterberry,Quả Đông Cam
-ORANGE WINTERBERRY,QUẢ ĐÔNG CAM
+Green Crispberry,Táo Giòn Lục
+GREEN CRISPBERRY,TÁO GIÒN LỤC
+Red Crispberry,Táo Giòn Đỏ
+RED CRISPBERRY,TÁO GIÒN ĐỎ
+Yellow Crispberry,Táo Giòn Vàng
+YELLOW CRISPBERRY,TÁO GIÒN VÀNG
+Purple Crispberry,Táo Giòn Tím
+PURPLE CRISPBERRY,TÁO GIÒN TÍM
+Black Crispberry,Táo Giòn Đen
+BLACK CRISPBERRY,TÁO GIÒN ĐEN
+Blue Crispberry,Táo Giòn Xanh
+BLUE CRISPBERRY,TÁO GIÒN XANH
+Pink Crispberry,Táo Giòn Hồng
+PINK CRISPBERRY,TÁO GIÒN HỒNG
+Brown Crispberry,Táo Giòn Nâu
+BROWN CRISPBERRY,TÁO GIÒN NÂU
+Orange Crispberry,Táo Giòn Cam
+ORANGE CRISPBERRY,TÁO GIÒN CAM
+Green Kingberry,Sa Kê Vương Lục
+GREEN KINGBERRY,SA KÊ VƯƠNG LỤC
+Red Kingberry,Sa Kê Vương Đỏ
+RED KINGBERRY,SA KÊ VƯƠNG ĐỎ
+Yellow Kingberry,Sa Kê Vương Vàng
+YELLOW KINGBERRY,SA KÊ VƯƠNG VÀNG
+Purple Kingberry,Sa Kê Vương Tím
+PURPLE KINGBERRY,SA KÊ VƯƠNG TÍM
+Black Kingberry,Sa Kê Vương Đen
+BLACK KINGBERRY,SA KÊ VƯƠNG ĐEN
+BLACK KINGBERRY,SA KÊ VƯƠNG ĐEN
+Blue Kingberry,Sa Kê Vương Xanh
+BLUE KINGBERRY,SA KÊ VƯƠNG XANH
+Pink Kingberry,Sa Kê Vương Hồng
+PINK KINGBERRY,SA KÊ VƯƠNG HỒNG
+Brown Kingberry,Sa Kê Vương Nâu
+BROWN KINGBERRY,SA KÊ VƯƠNG NÂU
+Orange Kingberry,Sa Kê Vương Cam
+ORANGE KINGBERRY,SA KÊ VƯƠNG CAM
+Green Clusterberry,Mâm Xôi Lục
+GREEN CLUSTERBERRY,MÂM XÔI LỤC
+Red Clusterberry,Mâm Xôi Đỏ
+RED CLUSTERBERRY,MÂM XÔI ĐỎ
+Yellow Clusterberry,Mâm Xôi Vàng
+YELLOW CLUSTERBERRY,MÂM XÔI VÀNG
+Purple Clusterberry,Mâm Xôi Tím
+PURPLE CLUSTERBERRY,MÂM XÔI TÍM
+Black Clusterberry,Mâm Xôi Đen
+BLACK CLUSTERBERRY,MÂM XÔI ĐEN
+Blue Clusterberry,Mâm Xôi Xanh
+BLUE CLUSTERBERRY,MÂM XÔI XANH
+Pink Clusterberry,Mâm Xôi Hồng
+PINK CLUSTERBERRY,MÂM XÔI HỒNG
+Brown Clusterberry,Mâm Xôi Nâu
+BROWN CLUSTERBERRY,MÂM XÔI NÂU
+Orange Clusterberry,Mâm Xôi Cam
+ORANGE CLUSTERBERRY,MÂM XÔI CAM
+Green Winterberry,Quýt Đông Lục
+GREEN WINTERBERRY,QUÝT ĐÔNG LỤC
+Red Winterberry,Quýt Đông Đỏ
+RED WINTERBERRY,QUÝT ĐÔNG ĐỎ
+Yellow Winterberry,Quýt Đông Vàng
+YELLOW WINTERBERRY,QUÝT ĐÔNG VÀNG
+Purple Winterberry,Quýt Đông Tím
+PURPLE WINTERBERRY,QUÝT ĐÔNG TÍM
+Black Winterberry,Quýt Đông Đen
+BLACK WINTERBERRY,QUÝT ĐÔNG ĐEN
+Blue Winterberry,Quýt Đông Xanh
+BLUE WINTERBERRY,QUÝT ĐÔNG XANH
+Pink Winterberry,Quýt Đông Hồng
+PINK WINTERBERRY,QUÝT ĐÔNG HỒNG
+Brown Winterberry,Quýt Đông Nâu
+BROWN WINTERBERRY,QUÝT ĐÔNG NÂU
+Orange Winterberry,Quýt Đông Cam
+ORANGE WINTERBERRY,QUÝT ĐÔNG CAM
 Green Berrynana,Chuối Mọng Lục
 GREEN BERRYNANA,CHUỐI MỌNG LỤC
 Red Berrynana,Chuối Mọng Đỏ
