@@ -20,7 +20,7 @@ afternoon,chiều
 night,đêm
 morning,sáng
 CRABLAND,ĐẢO CUA
-HOST GAME,CHỦ PHÒNG
+HOST GAME,TẠO PHÒNG
 PLAY OFFLINE,NGOẠI TUYẾN
 SETTINGS\n,CÀI ĐẶT\n
 CREDITS,CREDIT
@@ -79,7 +79,7 @@ set piton,đặt neo đá
 set,đặt
 shoot,bắn
 fire,phóng
-Remove tick,gỡ ve
+Remove tick,Gỡ ve
 heat up,làm nóng
 look,nhìn
 plant,cắm
@@ -88,7 +88,7 @@ open?,mở?
 revive,hồi sinh
 warp,dịch chuyển
 play,chơi
-Stove,bếp
+Stove,Bếp
 place,đặt
 flame,lửa
 FLAME,LỬA
@@ -166,7 +166,7 @@ YOURSELF, BẠN
 YOUR FRIENDS, BẠN BÈ CỦA BẠN
 LEFT YOU TO DIE, ĐÃ BỎ BẠN LẠI ĐẾN KHI THÂN XÁC MỤC RỮA
 DEAD,CHẾT
-YOU PEAKED, ĐỈNH CAO CỦA BẠN LÀ TẠI MỐC
+YOU PEAKED, ĐỈNH CAO CỦA BẠN LÀ MỐC
 PROMOTED TO;, THĂNG CẤP LÊN;
 NEW FIT!,NGOẠI HÌNH MỚI!
 NEW SASH!,THẮT LƯNG MỚI！
@@ -176,7 +176,7 @@ get resurrected at the statue!, hồi sinh tại tượng đài!
 you are a ghost\n\n\n, bạn là một vong hồn...\n\n\n
 YOUR BODY WAS, XÁC CỦA BẠN ĐÃ
 NEVER FOUND, KHÔNG BAO GIỜ TÌM THẤY
-SCOUTING REPORT, BÁO CÁO TRINH THÁM
+SCOUTING REPORT, BÁO CÁO HƯỚNG ĐẠO
 TIME\n, THỜI GIAN\n
 TIMELINE, DÒNG THỜI GIAN
 NEW BADGES, HUY HIỆU MỚI
